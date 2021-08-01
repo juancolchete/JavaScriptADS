@@ -20,3 +20,8 @@ In JavaScript, you can store a value in a variable with the assignment operator 
 After a value is assigned to a variable using the assignment operator, you can assign the value of that variable to another variable using the assignment operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/assigning-the-value-of-one-variable-to-another.js)  
+
+## Initializing Variables with the Assignment Operator
+It is common to initialize a variable to an initial value in the same line as it is declared.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)   
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/initializing-variables-with-the-assignment-operator.js)  
