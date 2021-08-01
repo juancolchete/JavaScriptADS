@@ -15,3 +15,8 @@ In computer science, data is anything that is meaningful to the computer. JavaSc
 In JavaScript, you can store a value in a variable with the assignment operator (<mark>=</mark>).  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/storing-values-with-the-assignment-operator.js)  
+
+## Assigning the Value of One Variable to Another
+After a value is assigned to a variable using the assignment operator, you can assign the value of that variable to another variable using the assignment operator.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assigning-the-value-of-one-variable-to-another)   
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/assigning-the-value-of-one-variable-to-another.js)  
