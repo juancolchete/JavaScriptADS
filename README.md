@@ -10,3 +10,8 @@ Comments are lines of code that JavaScript will intentionally ignore. Comments a
 In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are <mark>undefined</mark>, <mark>null</mark>, <mark>boolean</mark>, <mark>string</mark>, <mark>symbol</mark>, <mark>bigint</mark>, <mark>number</mark>, and <mark>object</mark>.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/declare-javascript-variables.js)  
+
+## Storing Values with the Assignment Operator
+In JavaScript, you can store a value in a variable with the assignment operator (<mark>=</mark>).  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)   
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/storing-values-with-the-assignment-operator.js)  
