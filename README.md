@@ -25,3 +25,8 @@ After a value is assigned to a variable using the assignment operator, you can a
 It is common to initialize a variable to an initial value in the same line as it is declared.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/initializing-variables-with-the-assignment-operator)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/initializing-variables-with-the-assignment-operator.js)  
+
+## Understanding Uninitialized Variables
+When JavaScript variables are declared, they have an initial value of ```undefined```. If you do a mathematical operation on an ```undefined``` variable your result will be ```NaN``` which means "Not a Number". If you concatenate a string with an ```undefined``` variable, you will get a literal string of ```undefined```.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)   
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-uninitialized-variables.js)  
