@@ -7,7 +7,7 @@ Comments are lines of code that JavaScript will intentionally ignore. Comments a
 [solution](https://github.com/juanudk/javascript-algorithms-and-data-structures/blob/main/comment-your-javascript-code.js)  
 
 ## Declare JavaScript Variables
-In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are <mark>undefined</mark>, <mark>null</mark>, <mark>boolean</mark>, <mark>string</mark>, <mark>symbol</mark>, <mark>bigint</mark>, <mark>number</mark>, and <mark>object</mark>.  
+In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are ```undefined```, ```null```, ```boolean```, ```string```, ```symbol```, ```bigint```, ```number```, and ```object```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/declare-javascript-variables.js)  
 
