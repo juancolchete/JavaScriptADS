@@ -50,3 +50,8 @@ In JavaScript all variables and function names are case sensitive. This means th
 We can also subtract one number from another.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/subtract-one-number-from-another-with-javascript.js)  
+
+## Divide One Number by Another with JavaScript
+We can also divide one number by another.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-number-by-another-with-javascript.js)  
