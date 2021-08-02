@@ -31,6 +31,11 @@ When JavaScript variables are declared, they have an initial value of ```undefin
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-uninitialized-variables.js)  
 
+## Multiply Two Numbers with JavaScript
+We can also multiply one number by another.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-numbers-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/multiply-two-numbers-with-javascript.js)  
+
 ## Understanding Case Sensitivity in Variables
 In JavaScript all variables and function names are case sensitive. This means that capitalization matters.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)  
