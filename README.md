@@ -35,3 +35,13 @@ When JavaScript variables are declared, they have an initial value of ```undefin
 In JavaScript all variables and function names are case sensitive. This means that capitalization matters.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-case-sensitivity-in-variables.js)  
+
+## Add Two Numbers with JavaScript
+```Number``` is a data type in JavaScript which represents numeric data.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/add-two-numbers-with-javascript.js)  
+
+## Subtract One Number from Another with JavaScript
+We can also subtract one number from another.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/subtract-one-number-from-another-with-javascript.js)  
