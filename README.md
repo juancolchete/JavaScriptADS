@@ -30,3 +30,8 @@ It is common to initialize a variable to an initial value in the same line as it
 When JavaScript variables are declared, they have an initial value of ```undefined```. If you do a mathematical operation on an ```undefined``` variable your result will be ```NaN``` which means "Not a Number". If you concatenate a string with an ```undefined``` variable, you will get a literal string of ```undefined```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-uninitialized-variables.js)  
+
+## Understanding Case Sensitivity in Variables
+In JavaScript all variables and function names are case sensitive. This means that capitalization matters.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)   
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-case-sensitivity-in-variables.js)  
