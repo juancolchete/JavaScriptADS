@@ -32,6 +32,6 @@ When JavaScript variables are declared, they have an initial value of ```undefin
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-uninitialized-variables.js)  
 
 ## Understanding Case Sensitivity in Variables
-In JavaScript all variables and function names are case sensitive. This means that capitalization matters.
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)   
+In JavaScript all variables and function names are case sensitive. This means that capitalization matters.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-case-sensitivity-in-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-case-sensitivity-in-variables.js)  
