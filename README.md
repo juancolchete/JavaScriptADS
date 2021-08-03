@@ -65,3 +65,8 @@ You can easily increment or add one to a variable with the ```++``` operator.
 You can easily decrement or decrease a variable by one with the ```--``` operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/decrement-a-number-with-javascript.js)  
+
+## Create Decimal Numbers with JavaScript
+We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/create-decimal-numbers-with-javascript.js)  
