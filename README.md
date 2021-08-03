@@ -75,3 +75,8 @@ We can store decimal numbers in variables too. Decimal numbers are sometimes ref
 In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiply-two-decimals-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/multiply-two-decimals-with-javascript.js)  
+
+## Divide One Decimal by Another with JavaScript
+Now let's divide one decimal by another.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-decimal-by-another-with-javascript.js)  
