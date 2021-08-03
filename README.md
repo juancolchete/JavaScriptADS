@@ -56,7 +56,7 @@ We can also divide one number by another.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-number-by-another-with-javascript.js)  
 
-## Increment a Number with JavaScriptPassed
+## Increment a Number with JavaScript
 You can easily increment or add one to a variable with the ```++``` operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/increment-a-number-with-javascript.js)  
