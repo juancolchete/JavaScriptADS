@@ -85,3 +85,8 @@ Now let's divide one decimal by another.
 The remainder operator ```%``` gives the remainder of the division of two numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/finding-a-remainder-in-javascript.js)  
+
+## Compound Assignment With Augmented Addition
+In programming, it is common to use assignments to modify the contents of a variable. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-addition.js)  
