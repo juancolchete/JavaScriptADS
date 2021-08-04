@@ -77,6 +77,11 @@ In JavaScript, you can also perform calculations with decimal numbers, just like
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/multiply-two-decimals-with-javascript.js)  
 
 ## Divide One Decimal by Another with JavaScript
-Now let's divide one decimal by another.
+Now let's divide one decimal by another.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-decimal-by-another-with-javascript.js)  
+
+## Finding a Remainder in JavaScript
+The remainder operator ```%``` gives the remainder of the division of two numbers.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/finding-a-remainder-in-javascript.js)  
