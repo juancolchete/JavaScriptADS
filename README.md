@@ -87,6 +87,11 @@ The remainder operator ```%``` gives the remainder of the division of two number
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/finding-a-remainder-in-javascript.js)  
 
 ## Compound Assignment With Augmented Addition
-In programming, it is common to use assignments to modify the contents of a variable. 
+In programming, it is common to use assignments to modify the contents of a variable.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-addition)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-addition.js)  
+
+## Compound Assignment With Augmented Subtraction
+Like the ```+=``` operator, ```-=``` subtracts a number from a variable.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-subtraction.js)  
