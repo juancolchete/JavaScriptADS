@@ -95,3 +95,8 @@ In programming, it is common to use assignments to modify the contents of a vari
 Like the ```+=``` operator, ```-=``` subtracts a number from a variable.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-subtraction.js)  
+
+## Compound Assignment With Augmented Multiplication
+The ```*=``` operator multiplies a variable by a number.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-multiplication)  
