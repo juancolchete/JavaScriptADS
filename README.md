@@ -100,3 +100,8 @@ Like the ```+=``` operator, ```-=``` subtracts a number from a variable.
 The ```*=``` operator multiplies a variable by a number.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-multiplication)  
+
+## Compound Assignment With Augmented Division
+The ```/=``` operator divides a variable by another number.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-division.js)  
