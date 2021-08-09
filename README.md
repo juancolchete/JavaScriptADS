@@ -105,3 +105,8 @@ The ```*=``` operator multiplies a variable by a number.
 The ```/=``` operator divides a variable by another number.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/compound-assignment-with-augmented-division.js)  
+
+## Declare String Variables
+Create two new string variables: ```myFirstName``` and ```myLastName``` and assign them the values of your first and last name, respectively.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/declare-string-variables.js)  
