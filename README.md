@@ -110,3 +110,8 @@ The ```/=``` operator divides a variable by another number.
 Create two new string variables: ```myFirstName``` and ```myLastName``` and assign them the values of your first and last name, respectively.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/declare-string-variables.js)  
+
+## Escaping Literal Quotes in Strings
+In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (```\```) in front of the quote.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/escaping-literal-quotes-in-strings.js)  
