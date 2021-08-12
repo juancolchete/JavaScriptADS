@@ -120,3 +120,8 @@ In JavaScript, you can escape a quote from considering it as an end of string qu
 String values in JavaScript may be written with single or double quotes, as long as you start and end with the same type of quote. Unlike some other programming languages, single and double quotes work the same in JavaScript.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/quoting-strings-with-single-quotes)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/quoting-strings-with-single-quotes.js)  
+
+## Escape Sequences in Strings
+Quotes are not the only characters that can be escaped inside a string.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escape-sequences-in-strings)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/escape-sequences-in-strings.js)  
