@@ -127,6 +127,6 @@ Quotes are not the only characters that can be escaped inside a string.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/escape-sequences-in-strings.js)  
 
 ## Concatenating Strings with Plus Operator
-In JavaScript, when the ```+``` operator is used with a ```String``` value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.
+In JavaScript, when the ```+``` operator is used with a ```String``` value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/concatenating-strings-with-plus-operatorf.js)  
