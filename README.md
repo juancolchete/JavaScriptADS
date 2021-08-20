@@ -137,7 +137,7 @@ We can also use the ```+=``` operator to concatenate a string onto the end of an
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/concatenating-strings-with-the-plus-equals-operator.js)  
 
 ## Constructing Strings with Variables
-Sometimes you will need to build a string, Mad Libs style. By using the concatenation operator (```+```), you can insert one or more variables into a string you're building.
+Sometimes you will need to build a string, Mad Libs style. By using the concatenation operator (```+```), you can insert one or more variables into a string you're building.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/constructing-strings-with-variables.js)  
 
