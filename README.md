@@ -150,3 +150,9 @@ Just as we can build a string over multiple lines out of string literals, we can
 You can find the length of a ```String``` value by writing ```.length``` after the string variable or string literal.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string)    
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/find-the-length-of-a-string.js)  
+
+
+## Use Bracket Notation to Find the First Character in a String
+Bracket notation is a way to get a character at a specific index within a string.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-first-character-in-a-string.js)  
