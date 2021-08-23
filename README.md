@@ -156,3 +156,8 @@ You can find the length of a ```String``` value by writing ```.length``` after t
 Bracket notation is a way to get a character at a specific index within a string.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-first-character-in-a-string)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-first-character-in-a-string.js)  
+
+## Understand String Immutability
+In JavaScript, String values are immutable, which means that they cannot be altered once created.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understand-string-immutability)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/understand-string-immutability.js)  
