@@ -161,3 +161,8 @@ Bracket notation is a way to get a character at a specific index within a string
 In JavaScript, String values are immutable, which means that they cannot be altered once created.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understand-string-immutability)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understand-string-immutability.js)  
+
+## Use Bracket Notation to Find the Nth Character in a String
+You can also use bracket notation to get the character at other positions within a string.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-nth-character-in-a-string.js)  
