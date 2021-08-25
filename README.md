@@ -166,3 +166,8 @@ In JavaScript, String values are immutable, which means that they cannot be alte
 You can also use bracket notation to get the character at other positions within a string.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-character-in-a-string)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-nth-character-in-a-string.js)  
+
+## Use Bracket Notation to Find the Last Character in a String
+In order to get the last letter of a string, you can subtract one from the string's length.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-last-character-in-a-string.js)  
