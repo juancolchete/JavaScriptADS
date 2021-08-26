@@ -171,3 +171,8 @@ You can also use bracket notation to get the character at other positions within
 In order to get the last letter of a string, you can subtract one from the string's length.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-last-character-in-a-string)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-last-character-in-a-string.js)  
+
+## Use Bracket Notation to Find the Nth-to-Last Character in a String
+You can use the same principle we just used to retrieve the last character in a string to retrieve the Nth-to-last character.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string.js)  
