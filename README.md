@@ -176,3 +176,8 @@ In order to get the last letter of a string, you can subtract one from the strin
 You can use the same principle we just used to retrieve the last character in a string to retrieve the Nth-to-last character.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string.js)  
+
+## Word Blanks
+We will now use our knowledge of strings to build a "[Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)" style word game we're calling "Word Blanks". You will create an (optionally humorous) "Fill in the Blanks" style sentence.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/word-blanks.js)  
