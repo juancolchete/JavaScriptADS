@@ -181,3 +181,8 @@ You can use the same principle we just used to retrieve the last character in a 
 We will now use our knowledge of strings to build a "[Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)" style word game we're calling "Word Blanks". You will create an (optionally humorous) "Fill in the Blanks" style sentence.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/word-blanks)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/word-blanks.js)  
+
+## Store Multiple Values in one Variable using JavaScript Arrays
+With JavaScript array variables, we can store several pieces of data in one place.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/store-multiple-values-in-one-variable-using-javascript-arrays.js)  
