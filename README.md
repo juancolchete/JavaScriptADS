@@ -183,6 +183,11 @@ We will now use our knowledge of strings to build a "[Mad Libs](https://en.wikip
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/word-blanks.js)  
 
 ## Store Multiple Values in one Variable using JavaScript Arrays
-With JavaScript array variables, we can store several pieces of data in one place.
+With JavaScript array variables, we can store several pieces of data in one place.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/store-multiple-values-in-one-variable-using-javascript-arrays.js)  
+
+## Nest one Array within Another Array
+You can also nest arrays within other arrays.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/nest-one-array-within-another-array.js)  
