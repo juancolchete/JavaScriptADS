@@ -191,3 +191,8 @@ With JavaScript array variables, we can store several pieces of data in one plac
 You can also nest arrays within other arrays.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/nest-one-array-within-another-array.js)  
+
+## Access Array Data with Indexes
+We can access the data inside arrays using indexes.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/access-array-data-with-indexes.js)  
