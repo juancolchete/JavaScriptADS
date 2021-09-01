@@ -196,3 +196,8 @@ You can also nest arrays within other arrays.
 We can access the data inside arrays using indexes.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/access-array-data-with-indexes.js)  
+
+## Modify Array Data With Indexes
+Unlike strings, the entries of arrays are mutable and can be changed freely.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/modify-array-data-with-indexes.js)  
