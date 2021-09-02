@@ -200,4 +200,9 @@ We can access the data inside arrays using indexes.
 ## Modify Array Data With Indexes
 Unlike strings, the entries of arrays are mutable and can be changed freely.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/modify-array-data-with-indexes.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/modify-array-data-with-indexes.js)
+
+## Access Multi-Dimensional Arrays With Indexes
+One way to think of a multi-dimensional array, is as an array of arrays. When you use brackets to access your array, the first set of brackets refers to the entries in the outer-most (the first level) array, and each additional pair of brackets refers to the next level of entries inside.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/access-multi-dimensional-arrays-with-indexes.js)  
