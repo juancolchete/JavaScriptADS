@@ -206,3 +206,8 @@ Unlike strings, the entries of arrays are mutable and can be changed freely.
 One way to think of a multi-dimensional array, is as an array of arrays. When you use brackets to access your array, the first set of brackets refers to the entries in the outer-most (the first level) array, and each additional pair of brackets refers to the next level of entries inside.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/access-multi-dimensional-arrays-with-indexes.js)  
+
+## Manipulate Arrays With push()
+An easy way to append data to the end of an array is via the ```push()``` function.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/modify-array-data-with-indexes.js)  
