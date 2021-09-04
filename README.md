@@ -211,3 +211,8 @@ One way to think of a multi-dimensional array, is as an array of arrays. When yo
 An easy way to append data to the end of an array is via the ```push()``` function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/modify-array-data-with-indexes.js)  
+
+## Manipulate Arrays With pop()
+Another way to change the data in an array is with the ```.pop()``` function.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-pop.js)  
