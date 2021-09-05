@@ -216,3 +216,9 @@ An easy way to append data to the end of an array is via the ```push()``` functi
 Another way to change the data in an array is with the ```.pop()``` function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-pop.js)  
+
+## Manipulate Arrays With shift()
+```pop()``` always removes the last element of an array. What if you want to remove the first?  
+That's where ```.shift()``` comes in. It works just like ```.pop()```, except it removes the first element instead of the last.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-shift.js)  
