@@ -222,3 +222,8 @@ Another way to change the data in an array is with the ```.pop()``` function.
 That's where ```.shift()``` comes in. It works just like ```.pop()```, except it removes the first element instead of the last.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-shift.js)  
+
+## Manipulate Arrays With unshift()
+Not only can you ```shift``` elements off of the beginning of an array, you can also ```unshift``` elements to the beginning of an array i.e. add elements in front of the array.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-unshift.js)  
