@@ -226,4 +226,9 @@ That's where ```.shift()``` comes in. It works just like ```.pop()```, except it
 ## Manipulate Arrays With unshift()
 Not only can you ```shift``` elements off of the beginning of an array, you can also ```unshift``` elements to the beginning of an array i.e. add elements in front of the array.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-unshift.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulate-arrays-with-unshift.js) 
+
+## Shopping List
+Create a shopping list in the variable ```myList```. The list should be a multi-dimensional array containing several sub-arrays.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/shopping-list.js)  
