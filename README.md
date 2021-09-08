@@ -231,4 +231,9 @@ Not only can you ```shift``` elements off of the beginning of an array, you can 
 ## Shopping List
 Create a shopping list in the variable ```myList```. The list should be a multi-dimensional array containing several sub-arrays.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/shopping-list.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/shopping-list.js)
+
+## Write Reusable JavaScript with Functions
+In JavaScript, we can divide up our code into reusable parts called functions.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/write-reusable-javascript-with-functions.js)  
