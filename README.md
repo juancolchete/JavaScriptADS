@@ -238,7 +238,7 @@ In JavaScript, we can divide up our code into reusable parts called functions.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/write-reusable-javascript-with-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/write-reusable-javascript-with-functions.js)  
 
-## 
-
-[statement]()  
-[solution]()  
+## Passing Values to Functions with Arguments
+Parameters are variables that act as placeholders for the values that are to be input to a function when it is called. When a function is defined, it is typically defined along with one or more parameters. The actual values that are input (or "passed") into a function when it is called are known as arguments.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/passing-values-to-functions-with-arguments)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/passing-values-to-functions-with-arguments.js)  
