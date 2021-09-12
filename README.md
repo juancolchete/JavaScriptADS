@@ -247,3 +247,8 @@ Parameters are variables that act as placeholders for the values that are to be 
 In JavaScript, scope refers to the visibility of variables. Variables which are defined outside of a function block have Global scope. This means, they can be seen everywhere in your JavaScript code.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/global-scope-and-functions.js)  
+
+## Local Scope and Functions
+Variables which are declared within a function, as well as the function parameters, have local scope. That means they are only visible within that function.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/local-scope-and-functions.js)  
