@@ -252,3 +252,8 @@ In JavaScript, scope refers to the visibility of variables. Variables which are 
 Variables which are declared within a function, as well as the function parameters, have local scope. That means they are only visible within that function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/local-scope-and-functions.js)  
+
+## Global vs. Local Scope in Functions
+It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/global-vs--local-scope-in-functions.js)  
