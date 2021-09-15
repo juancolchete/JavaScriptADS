@@ -254,6 +254,11 @@ Variables which are declared within a function, as well as the function paramete
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/local-scope-and-functions.js)  
 
 ## Global vs. Local Scope in Functions
-It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.
+It is possible to have both local and global variables with the same name. When you do this, the local variable takes precedence over the global variable.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-vs--local-scope-in-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/global-vs--local-scope-in-functions.js)  
+
+## Return a Value from a Function with Return
+We can pass values into a function with arguments. You can use a ```return``` statement to send a value back out of a function.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/return-a-value-from-a-function-with-return.js)  
