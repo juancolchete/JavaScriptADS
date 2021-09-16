@@ -262,3 +262,9 @@ It is possible to have both local and global variables with the same name. When 
 We can pass values into a function with arguments. You can use a ```return``` statement to send a value back out of a function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/return-a-value-from-a-function-with-return.js)  
+
+
+## Understanding Undefined Value returned from a Function
+A function can include the ```return``` statement but it does not have to. In the case that the function doesn't have a ```return``` statement, when you call it, the function processes the inner code but the returned value is ```undefined```.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-undefined-value-returned-from-a-function.js)  
