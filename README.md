@@ -268,3 +268,8 @@ We can pass values into a function with arguments. You can use a ```return``` st
 A function can include the ```return``` statement but it does not have to. In the case that the function doesn't have a ```return``` statement, when you call it, the function processes the inner code but the returned value is ```undefined```.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-undefined-value-returned-from-a-function.js)  
+
+## Assignment with a Returned Value
+If you'll recall from our discussion of (Storing Values with the Assignment Operator)[https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator], everything to the right of the equal sign is resolved before the value is assigned. This means we can take the return value of a function and assign it to a variable.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/assignment-with-a-returned-value.js)  
