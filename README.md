@@ -270,6 +270,11 @@ A function can include the ```return``` statement but it does not have to. In th
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-undefined-value-returned-from-a-function.js)  
 
 ## Assignment with a Returned Value
-If you'll recall from our discussion of (Storing Values with the Assignment Operator)[https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator], everything to the right of the equal sign is resolved before the value is assigned. This means we can take the return value of a function and assign it to a variable.
+If you'll recall from our discussion of [Storing Values with the Assignment Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator), everything to the right of the equal sign is resolved before the value is assigned. This means we can take the return value of a function and assign it to a variable.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/assignment-with-a-returned-value)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/assignment-with-a-returned-value.js)  
+
+## Stand in Line
+In Computer Science a queue is an abstract Data Structure where items are kept in order. New items can be added at the back of the queue and old items are taken off from the front of the queue.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/stand-in-line.js)  
