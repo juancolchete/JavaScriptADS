@@ -278,3 +278,8 @@ If you'll recall from our discussion of [Storing Values with the Assignment Oper
 In Computer Science a queue is an abstract Data Structure where items are kept in order. New items can be added at the back of the queue and old items are taken off from the front of the queue.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/stand-in-line.js)  
+
+## Understanding Boolean Values
+Another data type is the Boolean. Booleans may only be one of two values: ```true``` or ```false```. They are basically little on-off switches, where ```true``` is on and ```false``` is off. These two states are mutually exclusive.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-boolean-values.js)  
