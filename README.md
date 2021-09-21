@@ -287,4 +287,9 @@ Another data type is the Boolean. Booleans may only be one of two values: ```tru
 ## Use Conditional Logic with If Statements
 ```If``` statements are used to make decisions in code. The keyword ```if``` tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses. These conditions are known as ```Boolean``` conditions and they may only be ```true``` or ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-conditional-logic-with-if-statements.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-conditional-logic-with-if-statements.js) 
+
+## Comparison with the Equality Operator
+There are many comparison operators in JavaScript. All of these operators return a boolean ```true``` or ```false``` value.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-equality-operator.js)  
