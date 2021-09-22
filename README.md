@@ -290,6 +290,11 @@ Another data type is the Boolean. Booleans may only be one of two values: ```tru
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-conditional-logic-with-if-statements.js) 
 
 ## Comparison with the Equality Operator
-There are many comparison operators in JavaScript. All of these operators return a boolean ```true``` or ```false``` value.
+There are many comparison operators in JavaScript. All of these operators return a boolean ```true``` or ```false``` value.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-equality-operator.js)  
+
+## Comparison with the Strict Equality Operator
+Strict equality (===) is the counterpart to the equality operator (==). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-strict-equality-operator.js)  
