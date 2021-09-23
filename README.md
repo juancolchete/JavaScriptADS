@@ -298,3 +298,8 @@ There are many comparison operators in JavaScript. All of these operators return
 Strict equality (===) is the counterpart to the equality operator (==). However, unlike the equality operator, which attempts to convert both values being compared to a common type, the strict equality operator does not perform a type conversion.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-equality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-strict-equality-operator.js)  
+
+## Practice comparing different values
+In the last two challenges, we learned about the equality operator (```==```) and the strict equality operator (```===```). Let's do a quick review and practice using these operators some more.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/practice-comparing-different-values.js)  
