@@ -302,4 +302,9 @@ Strict equality (===) is the counterpart to the equality operator (==). However,
 ## Practice comparing different values
 In the last two challenges, we learned about the equality operator (```==```) and the strict equality operator (```===```). Let's do a quick review and practice using these operators some more.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/practice-comparing-different-values.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/practice-comparing-different-values.js)
+
+## Comparison with the Inequality Operator
+he inequality operator (```!=```) is the opposite of the equality operator. It means not equal and returns ```false``` where equality would return ```true``` and vice versa. Like the equality operator, the inequality operator will convert data types of values while comparing.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-inequality-operator.js)  
