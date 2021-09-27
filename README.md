@@ -305,6 +305,11 @@ In the last two challenges, we learned about the equality operator (```==```) an
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/practice-comparing-different-values.js)
 
 ## Comparison with the Inequality Operator
-he inequality operator (```!=```) is the opposite of the equality operator. It means not equal and returns ```false``` where equality would return ```true``` and vice versa. Like the equality operator, the inequality operator will convert data types of values while comparing.
+he inequality operator (```!=```) is the opposite of the equality operator. It means not equal and returns ```false``` where equality would return ```true``` and vice versa. Like the equality operator, the inequality operator will convert data types of values while comparing.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-inequality-operator.js)  
+
+## Comparison with the Strict Inequality Operator
+The strict inequality operator (```!==```) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns ```false``` where strict equality would return ```true``` and vice versa. The strict inequality operator will not convert data types.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-strict-inequality-operator.js)  
