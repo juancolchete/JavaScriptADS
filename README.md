@@ -313,3 +313,8 @@ he inequality operator (```!=```) is the opposite of the equality operator. It m
 The strict inequality operator (```!==```) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns ```false``` where strict equality would return ```true``` and vice versa. The strict inequality operator will not convert data types.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-strict-inequality-operator.js)  
+
+## Comparison with the Greater Than Operator
+The greater than operator (```>```) compares the values of two numbers. If the number to the left is greater than the number to the right, it returns ```true```. Otherwise, it returns ```false```.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-greater-than-operator.js)  
