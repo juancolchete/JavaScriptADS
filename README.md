@@ -320,6 +320,6 @@ The greater than operator (```>```) compares the values of two numbers. If the n
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-greater-than-operator.js)  
 
 ## Comparison with the Greater Than Or Equal To Operator
-The greater than or equal to operator (```>=```) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns ```true```. Otherwise, it returns ```false```.
+The greater than or equal to operator (```>=```) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-greater-than-or-equal-to-operator.js)  
