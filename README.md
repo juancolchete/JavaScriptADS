@@ -323,3 +323,8 @@ The greater than operator (```>```) compares the values of two numbers. If the n
 The greater than or equal to operator (```>=```) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-greater-than-or-equal-to-operator.js)  
+
+## Comparison with the Less Than Operator
+The less than operator (```<```) compares the values of two numbers. If the number to the left is less than the number to the right, it returns ```true```. Otherwise, it returns ```false```. Like the equality operator, the less than operator converts data types while comparing.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-less-than-operator.js)
