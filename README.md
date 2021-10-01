@@ -325,6 +325,11 @@ The greater than or equal to operator (```>=```) compares the values of two numb
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-greater-than-or-equal-to-operator.js)  
 
 ## Comparison with the Less Than Operator
-The less than operator (```<```) compares the values of two numbers. If the number to the left is less than the number to the right, it returns ```true```. Otherwise, it returns ```false```. Like the equality operator, the less than operator converts data types while comparing.
+The less than operator (```<```) compares the values of two numbers. If the number to the left is less than the number to the right, it returns ```true```. Otherwise, it returns ```false```. Like the equality operator, the less than operator converts data types while comparing.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-less-than-operator.js)
+
+## Comparison with the Less Than Or Equal To Operator
+The less than or equal to operator (```<=```) compares the values of two numbers. If the number to the left is less than or equal to the number to the right, it returns ```true```. If the number on the left is greater than the number on the right, it returns ```false```. Like the equality operator, the less than or equal to operator converts data types.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-less-than-or-equal-to-operator.js)  
