@@ -333,3 +333,8 @@ The less than operator (```<```) compares the values of two numbers. If the numb
 The less than or equal to operator (```<=```) compares the values of two numbers. If the number to the left is less than or equal to the number to the right, it returns ```true```. If the number on the left is greater than the number on the right, it returns ```false```. Like the equality operator, the less than or equal to operator converts data types.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-less-than-or-equal-to-operator.js)  
+
+## Comparisons with the Logical And Operator
+Sometimes you will need to test more than one thing at a time. The logical and operator (```&&```) returns ```true``` if and only if the operands to the left and right of it are true.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-and-operator.js)  
