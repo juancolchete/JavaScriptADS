@@ -340,6 +340,6 @@ Sometimes you will need to test more than one thing at a time. The logical and o
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-and-operator.js)  
 
 ## Comparisons with the Logical Or Operator
-The logical or operator (```||```) returns ```true``` if either of the operands is ```true```. Otherwise, it returns ```false```.
+The logical or operator (```||```) returns ```true``` if either of the operands is ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-or-operator.js)  
