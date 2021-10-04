@@ -338,3 +338,8 @@ The less than or equal to operator (```<=```) compares the values of two numbers
 Sometimes you will need to test more than one thing at a time. The logical and operator (```&&```) returns ```true``` if and only if the operands to the left and right of it are true.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-and-operator.js)  
+
+## Comparisons with the Logical Or Operator
+The logical or operator (```||```) returns ```true``` if either of the operands is ```true```. Otherwise, it returns ```false```.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-or-operator.js)  
