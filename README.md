@@ -343,3 +343,8 @@ Sometimes you will need to test more than one thing at a time. The logical and o
 The logical or operator (```||```) returns ```true``` if either of the operands is ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-or-operator.js)  
+
+## Introducing Else Statements
+When a condition for an ```if``` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an ```else``` statement, an alternate block of code can be executed.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-statements.js)  
