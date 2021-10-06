@@ -348,3 +348,8 @@ The logical or operator (```||```) returns ```true``` if either of the operands 
 When a condition for an ```if``` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an ```else``` statement, an alternate block of code can be executed.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-statements.js)  
+
+## Introducing Else If Statements
+If you have multiple conditions that need to be addressed, you can chain if statements together with else if statements.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-if-statements.js)  
