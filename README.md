@@ -353,3 +353,8 @@ When a condition for an ```if``` statement is true, the block of code following 
 If you have multiple conditions that need to be addressed, you can chain if statements together with else if statements.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-if-statements.js)  
+
+## Logical Order in If Else Statements
+Order is important in ```if```, ```else if``` statements.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/logical-order-in-if-else-statements.js)  
