@@ -357,4 +357,9 @@ If you have multiple conditions that need to be addressed, you can chain if stat
 ## Logical Order in If Else Statements
 Order is important in ```if```, ```else if``` statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/logical-order-in-if-else-statements.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/logical-order-in-if-else-statements.js) 
+
+## Chaining If Else Statements
+```if/else``` statements can be chained together for complex logic.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/chaining-if-else-statements.js)  
