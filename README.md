@@ -363,3 +363,8 @@ Order is important in ```if```, ```else if``` statements.
 ```if/else``` statements can be chained together for complex logic.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/chaining-if-else-statements.js)  
+
+## Golf Code
+In the game of golf, each hole has a par, meaning, the average number of strokes a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below par your strokes are, there is a different nickname.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)  
+[solution](https://github.com/juanudk/JavaScriptADS/golf-code.js)  
