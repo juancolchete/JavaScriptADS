@@ -12,7 +12,7 @@ In computer science, data is anything that is meaningful to the computer. JavaSc
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/declare-javascript-variables.js)  
 
 ## Storing Values with the Assignment Operator
-In JavaScript, you can store a value in a variable with the assignment operator (<mark>=</mark>).  
+In JavaScript, you can store a value in a variable with the assignment operator (```=```).  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/storing-values-with-the-assignment-operator.js)  
 
@@ -265,7 +265,7 @@ We can pass values into a function with arguments. You can use a ```return``` st
 
 
 ## Understanding Undefined Value returned from a Function
-A function can include the ```return``` statement but it does not have to. In the case that the function doesn't have a ```return``` statement, when you call it, the function processes the inner code but the returned value is ```undefined```.
+A function can include the ```return``` statement but it does not have to. In the case that the function doesn't have a ```return``` statement, when you call it, the function processes the inner code but the returned value is ```undefined```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/understanding-undefined-value-returned-from-a-function.js)  
 
@@ -300,7 +300,7 @@ Strict equality (===) is the counterpart to the equality operator (==). However,
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparison-with-the-strict-equality-operator.js)  
 
 ## Practice comparing different values
-In the last two challenges, we learned about the equality operator (```==```) and the strict equality operator (```===```). Let's do a quick review and practice using these operators some more.
+In the last two challenges, we learned about the equality operator (```==```) and the strict equality operator (```===```). Let's do a quick review and practice using these operators some more.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/practice-comparing-different-values.js)
 
@@ -345,12 +345,12 @@ The logical or operator (```||```) returns ```true``` if either of the operands 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/comparisons-with-the-logical-or-operator.js)  
 
 ## Introducing Else Statements
-When a condition for an ```if``` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an ```else``` statement, an alternate block of code can be executed.
+When a condition for an ```if``` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an ```else``` statement, an alternate block of code can be executed.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-statements.js)  
 
 ## Introducing Else If Statements
-If you have multiple conditions that need to be addressed, you can chain if statements together with else if statements.
+If you have multiple conditions that need to be addressed, you can chain if statements together with else if statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/introducing-else-if-statements.js)  
 
@@ -365,6 +365,11 @@ Order is important in ```if```, ```else if``` statements.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/chaining-if-else-statements.js)  
 
 ## Golf Code
-In the game of golf, each hole has a ```par```, meaning, the average number of ```strokes``` a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below ```par``` your ```strokes``` are, there is a different nickname.
+In the game of golf, each hole has a ```par```, meaning, the average number of ```strokes``` a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below ```par``` your ```strokes``` are, there is a different nickname.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)  
 [solution](https://github.com/juanudk/JavaScriptADS/golf-code.js)  
+
+## Selecting from Many Options with Switch Statements
+If you have many options to choose from, use a switch statement. A ```switch``` statement tests a value and can have many case statements which define various possible values. Statements are executed from the first matched ```case``` value until a ```break``` is encountered.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)  
+[solution]((https://github.com/juanudk/JavaScriptADS/selecting-from-many-options-with-switch-statements.js)  
