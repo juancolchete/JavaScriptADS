@@ -373,3 +373,8 @@ In the game of golf, each hole has a ```par```, meaning, the average number of `
 If you have many options to choose from, use a switch statement. A ```switch``` statement tests a value and can have many case statements which define various possible values. Statements are executed from the first matched ```case``` value until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/selecting-from-many-options-with-switch-statements.js)  
+
+## Adding a Default Option in Switch Statements
+In a ```switch``` statement you may not be able to specify all possible values as ```case``` statements. Instead, you can add the ```default``` statement which will be executed if no matching ```case``` statements are found. Think of it like the final ```else``` statement in an ```if/else``` chain.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/adding-a-default-option-in-switch-statements.js)  
