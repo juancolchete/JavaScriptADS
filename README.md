@@ -377,4 +377,9 @@ If you have many options to choose from, use a switch statement. A ```switch``` 
 ## Adding a Default Option in Switch Statements
 In a ```switch``` statement you may not be able to specify all possible values as ```case``` statements. Instead, you can add the ```default``` statement which will be executed if no matching ```case``` statements are found. Think of it like the final ```else``` statement in an ```if/else``` chain.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/adding-a-default-option-in-switch-statements.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/adding-a-default-option-in-switch-statements.js) 
+
+## Multiple Identical Options in Switch Statements
+If the ```break``` statement is omitted from a ```switch``` statement's ```case```, the following ```case``` statement(s) are executed until a ```break``` is encountered.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)  
+[solution](https://github.com/juanudk/JavaScriptADS/multiple-identical-options-in-switch-statements.js)  
