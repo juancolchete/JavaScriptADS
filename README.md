@@ -383,3 +383,8 @@ In a ```switch``` statement you may not be able to specify all possible values a
 If the ```break``` statement is omitted from a ```switch``` statement's ```case```, the following ```case``` statement(s) are executed until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/multiple-identical-options-in-switch-statements.js)  
+
+## Replacing If Else Chains with Switch
+If you have many options to choose from, a ```switch``` statement can be easier to write than many chained ```if```/```else if``` statements.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)  
+[solution](https://github.com/juanudk/JavaScriptADS/replacing-if-else-chains-with-switch.js)  
