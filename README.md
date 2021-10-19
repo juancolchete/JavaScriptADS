@@ -385,11 +385,16 @@ If the ```break``` statement is omitted from a ```switch``` statement's ```case`
 [solution](https://github.com/juanudk/JavaScriptADS/multiple-identical-options-in-switch-statements.js)  
 
 ## Replacing If Else Chains with Switch
-If you have many options to choose from, a ```switch``` statement can be easier to write than many chained ```if```/```else if``` statements.
+If you have many options to choose from, a ```switch``` statement can be easier to write than many chained ```if```/```else if``` statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)  
 [solution](https://github.com/juanudk/JavaScriptADS/replacing-if-else-chains-with-switch.js)  
 
 ## Returning Boolean Values from Functions
-You may recall from [Comparison with the Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator) that all comparison operators return a boolean true or false value.
+You may recall from [Comparison with the Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator) that all comparison operators return a boolean true or false value.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/returning-boolean-values-from-functions.js)  
+
+## Return Early Pattern for Functions
+When a ```return``` statement is reached, the execution of the current function stops and control returns to the calling location.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/return-early-pattern-for-functions.js)  
