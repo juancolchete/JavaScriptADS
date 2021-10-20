@@ -367,34 +367,39 @@ Order is important in ```if```, ```else if``` statements.
 ## Golf Code
 In the game of golf, each hole has a ```par```, meaning, the average number of ```strokes``` a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below ```par``` your ```strokes``` are, there is a different nickname.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)  
-[solution](https://github.com/juanudk/JavaScriptADS/golf-code.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/golf-code.js)  
 
 ## Selecting from Many Options with Switch Statements
 If you have many options to choose from, use a switch statement. A ```switch``` statement tests a value and can have many case statements which define various possible values. Statements are executed from the first matched ```case``` value until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/selecting-from-many-options-with-switch-statements.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/selecting-from-many-options-with-switch-statements.js)  
 
 ## Adding a Default Option in Switch Statements
 In a ```switch``` statement you may not be able to specify all possible values as ```case``` statements. Instead, you can add the ```default``` statement which will be executed if no matching ```case``` statements are found. Think of it like the final ```else``` statement in an ```if/else``` chain.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/adding-a-default-option-in-switch-statements.js) 
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/adding-a-default-option-in-switch-statements.js) 
 
 ## Multiple Identical Options in Switch Statements
 If the ```break``` statement is omitted from a ```switch``` statement's ```case```, the following ```case``` statement(s) are executed until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)  
-[solution](https://github.com/juanudk/JavaScriptADS/multiple-identical-options-in-switch-statements.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/multiple-identical-options-in-switch-statements.js)  
 
 ## Replacing If Else Chains with Switch
 If you have many options to choose from, a ```switch``` statement can be easier to write than many chained ```if```/```else if``` statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)  
-[solution](https://github.com/juanudk/JavaScriptADS/replacing-if-else-chains-with-switch.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/replacing-if-else-chains-with-switch.js)  
 
 ## Returning Boolean Values from Functions
 You may recall from [Comparison with the Equality Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator) that all comparison operators return a boolean true or false value.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/returning-boolean-values-from-functions)  
-[solution](https://github.com/juanudk/JavaScriptADS/returning-boolean-values-from-functions.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/returning-boolean-values-from-functions.js)  
 
 ## Return Early Pattern for Functions
 When a ```return``` statement is reached, the execution of the current function stops and control returns to the calling location.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)  
-[solution](https://github.com/juanudk/JavaScriptADS/return-early-pattern-for-functions.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/return-early-pattern-for-functions.js)  
+
+## Counting Cards
+In the casino game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high and low cards remaining in the deck.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/counting-cards.js)  
