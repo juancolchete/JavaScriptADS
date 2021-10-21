@@ -402,4 +402,9 @@ When a ```return``` statement is reached, the execution of the current function 
 ## Counting Cards
 In the casino game Blackjack, a player can gain an advantage over the house by keeping track of the relative number of high and low cards remaining in the deck.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/counting-cards)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/counting-cards.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/counting-cards.js) 
+
+## Build JavaScript Objects
+Objects are similar to ```arrays```, except that instead of using indexes to access and modify their data, you access the data in objects through what are called ```properties```.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/build-javascript-objects.js)  
