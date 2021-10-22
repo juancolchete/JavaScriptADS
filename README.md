@@ -408,3 +408,8 @@ In the casino game Blackjack, a player can gain an advantage over the house by k
 Objects are similar to ```arrays```, except that instead of using indexes to access and modify their data, you access the data in objects through what are called ```properties```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/build-javascript-objects.js)  
+
+## Accessing Object Properties with Dot Notation
+There are two ways to access the properties of an object: dot notation (```.```) and bracket notation (```[]```), similar to an array.
+[statement]()  
+[solution]()  
