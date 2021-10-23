@@ -413,3 +413,8 @@ Objects are similar to ```arrays```, except that instead of using indexes to acc
 There are two ways to access the properties of an object: dot notation (```.```) and bracket notation (```[]```), similar to an array.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-object-properties-with-dot-notation.js)  
+
+## Accessing Object Properties with Bracket Notation
+The second way to access the properties of an object is bracket notation (```[]```). If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-object-properties-with-bracket-notation.js)  
