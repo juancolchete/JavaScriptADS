@@ -418,3 +418,8 @@ There are two ways to access the properties of an object: dot notation (```.```)
 The second way to access the properties of an object is bracket notation (```[]```). If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-object-properties-with-bracket-notation.js)  
+
+## Accessing Object Properties with Variables
+Another use of bracket notation on objects is to access a property which is stored as the value of a variable. This can be very useful for iterating through an object's properties or when accessing a lookup table.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-object-properties-with-variables.js)  
