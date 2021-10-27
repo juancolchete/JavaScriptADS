@@ -423,3 +423,8 @@ The second way to access the properties of an object is bracket notation (```[]`
 Another use of bracket notation on objects is to access a property which is stored as the value of a variable. This can be very useful for iterating through an object's properties or when accessing a lookup table.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-object-properties-with-variables.js)  
+
+## Updating Object Properties 
+After you've created a JavaScript object, you can update its properties at any time just like you would update any other variable. You can use either dot or bracket notation to update.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/updating-object-properties.js)  
