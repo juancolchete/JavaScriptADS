@@ -428,3 +428,8 @@ Another use of bracket notation on objects is to access a property which is stor
 After you've created a JavaScript object, you can update its properties at any time just like you would update any other variable. You can use either dot or bracket notation to update.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/updating-object-properties)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/updating-object-properties.js)  
+
+## Add New Properties to a JavaScript Object 
+You can add new properties to existing JavaScript objects the same way you would modify them. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/add-new-properties-to-a-javascript-object.js)  
