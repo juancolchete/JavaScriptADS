@@ -433,3 +433,11 @@ After you've created a JavaScript object, you can update its properties at any t
 You can add new properties to existing JavaScript objects the same way you would modify them. 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-new-properties-to-a-javascript-object)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/add-new-properties-to-a-javascript-object.js)  
+
+## Delete Properties from a JavaScript Object
+We can also delete properties from objects like this:
+```
+delete ourDog.bark;
+```
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/delete-properties-from-a-javascript-object)  
