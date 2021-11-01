@@ -441,3 +441,8 @@ delete ourDog.bark;
 ```
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/delete-properties-from-a-javascript-object)  
+
+## Using Objects for Lookups
+Objects can be thought of as a key/value storage, like a dictionary. If you have tabular data, you can use an object to lookup values rather than a ```switch``` statement or an ```if/else``` chain. This is most useful when you know that your input data is limited to a certain range.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/using-objects-for-lookups)  
