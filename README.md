@@ -440,9 +440,15 @@ We can also delete properties from objects like this:
 delete ourDog.bark;
 ```
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/delete-properties-from-a-javascript-object)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/delete-properties-from-a-javascript-object.js)  
 
 ## Using Objects for Lookups
 Objects can be thought of as a key/value storage, like a dictionary. If you have tabular data, you can use an object to lookup values rather than a ```switch``` statement or an ```if/else``` chain. This is most useful when you know that your input data is limited to a certain range.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/using-objects-for-lookups)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/using-objects-for-lookups.js)  
+
+## Testing Objects for Properties
+Testing Objects for PropertiesPassed
+Sometimes it is useful to check if the property of a given object exists or not. We can use the ```.hasOwnProperty(propname)``` method of objects to determine if that object has the given property name. ```.hasOwnProperty()``` returns ```true``` or ```false``` if the property is found or not.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/testing-objects-for-properties.js)  
