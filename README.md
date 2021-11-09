@@ -450,5 +450,5 @@ Objects can be thought of as a key/value storage, like a dictionary. If you have
 ## Testing Objects for Properties
 Testing Objects for PropertiesPassed
 Sometimes it is useful to check if the property of a given object exists or not. We can use the ```.hasOwnProperty(propname)``` method of objects to determine if that object has the given property name. ```.hasOwnProperty()``` returns ```true``` or ```false``` if the property is found or not.
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)    
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/testing-objects-for-properties.js)  
