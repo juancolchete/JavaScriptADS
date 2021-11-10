@@ -457,3 +457,8 @@ Sometimes it is useful to check if the property of a given object exists or not.
 Sometimes you may want to store data in a flexible Data Structure. A JavaScript object is one way to handle flexible data. They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulating-complex-objects.js)  
+
+## Accessing Nested Objects
+The sub-properties of objects can be accessed by chaining together the dot or bracket notation.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-nested-objects.js)  
