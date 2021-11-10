@@ -451,9 +451,9 @@ Objects can be thought of as a key/value storage, like a dictionary. If you have
 Testing Objects for PropertiesPassed
 Sometimes it is useful to check if the property of a given object exists or not. We can use the ```.hasOwnProperty(propname)``` method of objects to determine if that object has the given property name. ```.hasOwnProperty()``` returns ```true``` or ```false``` if the property is found or not.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)    
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/testing-objects-for-properties.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/testing-objects-for-properties.js)  
 
 ## Manipulating Complex Objects
 Sometimes you may want to store data in a flexible Data Structure. A JavaScript object is one way to handle flexible data. They allow for arbitrary combinations of strings, numbers, booleans, arrays, functions, and objects.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulating-complex-objects)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/manipulating-complex-objects.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/manipulating-complex-objects.js)  
