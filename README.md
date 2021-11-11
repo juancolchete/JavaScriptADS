@@ -461,4 +461,9 @@ Sometimes you may want to store data in a flexible Data Structure. A JavaScript 
 ## Accessing Nested Objects
 The sub-properties of objects can be accessed by chaining together the dot or bracket notation.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-objects)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-nested-objects.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-nested-objects.js) 
+
+## Accessing Nested Arrays
+As we have seen in earlier examples, objects can contain both nested objects and nested arrays. Similar to accessing nested objects, array bracket notation can be chained to access nested arrays.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-nested-arrays)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/accessing-nested-arrays.js)  
