@@ -472,3 +472,8 @@ As we have seen in earlier examples, objects can contain both nested objects and
 You are given an object literal representing a part of your musical album collection. Each album has a unique id number as its key and several other properties. Not all albums have complete information.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/record-collection.js)  
+
+## Iterate with JavaScript While Loops
+You can run the same code multiple times by using a loop.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-while-loops.js) 
