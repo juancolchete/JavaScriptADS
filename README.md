@@ -477,3 +477,8 @@ You are given an object literal representing a part of your musical album collec
 You can run the same code multiple times by using a loop.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-while-loops.js) 
+
+## Iterate with JavaScript For Loops
+You can run the same code multiple times by using a loop.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-for-loops.js)  
