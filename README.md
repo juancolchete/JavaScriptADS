@@ -487,3 +487,8 @@ You can run the same code multiple times by using a loop.
 For loops don't have to iterate one at a time. By changing our ```final-expression```, we can count by even numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop)
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-odd-numbers-with-a-for-loop.js)
+
+## Count Backwards With a For Loop
+A for loop can also count backwards, so long as we can define the right conditions.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/count-backwards-with-a-for-loop.js)  
