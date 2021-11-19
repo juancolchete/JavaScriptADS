@@ -482,3 +482,8 @@ You can run the same code multiple times by using a loop.
 You can run the same code multiple times by using a loop.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-for-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-for-loops.js)  
+
+## Iterate Odd Numbers With a For Loop
+For loops don't have to iterate one at a time. By changing our ```final-expression```, we can count by even numbers.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop)
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-odd-numbers-with-a-for-loop.js)
