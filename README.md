@@ -492,3 +492,8 @@ For loops don't have to iterate one at a time. By changing our ```final-expressi
 A for loop can also count backwards, so long as we can define the right conditions.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/count-backwards-with-a-for-loop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/count-backwards-with-a-for-loop.js)  
+
+## Iterate Through an Array with a For Loop
+A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a ```for``` loop.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-through-an-array-with-a-for-loop.js)  
