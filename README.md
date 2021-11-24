@@ -497,3 +497,8 @@ A for loop can also count backwards, so long as we can define the right conditio
 A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a ```for``` loop.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-through-an-array-with-a-for-loop.js)  
+
+## Nesting For Loops
+If you have a multi-dimensional array, you can use the same logic as the prior waypoint to loop through both the array and any sub-arrays.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/nesting-for-loops.js)  
