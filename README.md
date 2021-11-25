@@ -502,3 +502,9 @@ A common task in JavaScript is to iterate through the contents of an array. One 
 If you have a multi-dimensional array, you can use the same logic as the prior waypoint to loop through both the array and any sub-arrays.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/nesting-for-loops.js)  
+
+
+## Iterate with JavaScript Do...While Loops
+The next type of loop you will learn is called a ```do...while loop```. It is called a ```do...while``` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-do---while-loops.js)  
