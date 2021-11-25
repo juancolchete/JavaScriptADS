@@ -499,6 +499,6 @@ A common task in JavaScript is to iterate through the contents of an array. One 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-through-an-array-with-a-for-loop.js)  
 
 ## Nesting For Loops
-If you have a multi-dimensional array, you can use the same logic as the prior waypoint to loop through both the array and any sub-arrays.
+If you have a multi-dimensional array, you can use the same logic as the prior waypoint to loop through both the array and any sub-arrays.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nesting-for-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/nesting-for-loops.js)  
