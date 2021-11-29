@@ -505,6 +505,11 @@ If you have a multi-dimensional array, you can use the same logic as the prior w
 
 
 ## Iterate with JavaScript Do...While Loops
-The next type of loop you will learn is called a ```do...while loop```. It is called a ```do...while``` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.
+The next type of loop you will learn is called a ```do...while loop```. It is called a ```do...while``` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/iterate-with-javascript-do---while-loops.js)  
+
+## Replace Loops using Recursion
+Recursion is the concept that a function can be expressed in terms of itself. To help understand this, start by thinking about the following task: multiply the first ```n``` elements of an array to create the product of those elements.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/replace-loops-using-recursion.js)  
