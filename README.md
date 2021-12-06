@@ -513,3 +513,8 @@ The next type of loop you will learn is called a ```do...while loop```. It is ca
 Recursion is the concept that a function can be expressed in terms of itself. To help understand this, start by thinking about the following task: multiply the first ```n``` elements of an array to create the product of those elements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/replace-loops-using-recursion.js)  
+
+## Profile Lookup
+We have an array of objects representing different people in our contacts lists.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)  
+[solution](https://github.com/juanudk/JavaScriptADS/commit/e875b8e579ca33ec1f6f58f41634ea7b9b1a6e1e)  
