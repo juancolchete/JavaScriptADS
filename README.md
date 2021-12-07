@@ -517,4 +517,9 @@ Recursion is the concept that a function can be expressed in terms of itself. To
 ## Profile Lookup
 We have an array of objects representing different people in our contacts lists.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)  
-[solution](https://github.com/juanudk/JavaScriptADS/commit/e875b8e579ca33ec1f6f58f41634ea7b9b1a6e1e)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-fractions-with-javascript.js) 
+
+## Generate Random Fractions with JavaScriptPassed
+Random numbers are useful for creating random behavior.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-fractions-with-javascript.js)  
