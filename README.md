@@ -519,7 +519,12 @@ We have an array of objects representing different people in our contacts lists.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-fractions-with-javascript.js) 
 
-## Generate Random Fractions with JavaScriptPassed
-Random numbers are useful for creating random behavior.  
+## Generate Random Fractions with JavaScript
+Random numbers are useful for creating random behavior.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-fractions-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-fractions-with-javascript.js)  
+
+## Generate Random Whole Numbers with JavaScript
+It's great that we can generate random decimal numbers, but it's even more useful if we use it to generate random whole numbers.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-whole-numbers-with-javascript.js)  
