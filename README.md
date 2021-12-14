@@ -528,3 +528,8 @@ Random numbers are useful for creating random behavior.
 It's great that we can generate random decimal numbers, but it's even more useful if we use it to generate random whole numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-whole-numbers-with-javascript.js)  
+
+## Generate Random Whole Numbers within a Range
+Instead of generating a random whole number between zero and a given number like we did before, we can generate a random whole number that falls within a range of two specific numbers.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-whole-numbers-within-a-range.js)  
