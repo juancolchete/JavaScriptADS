@@ -533,3 +533,8 @@ It's great that we can generate random decimal numbers, but it's even more usefu
 Instead of generating a random whole number between zero and a given number like we did before, we can generate a random whole number that falls within a range of two specific numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/generate-random-whole-numbers-within-a-range)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/generate-random-whole-numbers-within-a-range.js)  
+
+## Use the parseInt Function
+The ```parseInt()``` function parses a string and returns an integer.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-parseint-function.js)  
