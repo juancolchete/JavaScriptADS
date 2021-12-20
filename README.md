@@ -538,3 +538,8 @@ Instead of generating a random whole number between zero and a given number like
 The ```parseInt()``` function parses a string and returns an integer.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-parseint-function.js)  
+
+## Use the parseInt Function with a Radix
+The ```parseInt()``` function parses a string and returns an integer. It takes a second argument for the radix, which specifies the base of the number in the string. The radix can be an integer between 2 and 36.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-parseint-function-with-a-radix.js)  
