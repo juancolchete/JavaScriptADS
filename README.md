@@ -543,3 +543,9 @@ The ```parseInt()``` function parses a string and returns an integer.
 The ```parseInt()``` function parses a string and returns an integer. It takes a second argument for the radix, which specifies the base of the number in the string. The radix can be an integer between 2 and 36.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-parseint-function-with-a-radix.js)  
+
+
+## Use the Conditional (Ternary) Operator
+The conditional operator, also called the ternary operator, can be used as a one line if-else expression.
+[statement](https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-conditional-ternary-operator.js)  
