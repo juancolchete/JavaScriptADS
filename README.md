@@ -546,6 +546,6 @@ The ```parseInt()``` function parses a string and returns an integer. It takes a
 
 
 ## Use the Conditional (Ternary) Operator
-The conditional operator, also called the ternary operator, can be used as a one line if-else expression.
+The conditional operator, also called the ternary operator, can be used as a one line if-else expression.  
 [statement](https://freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-conditional-ternary-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-the-conditional-ternary-operator.js)  
