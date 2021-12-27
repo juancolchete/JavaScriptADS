@@ -554,3 +554,8 @@ The conditional operator, also called the ternary operator, can be used as a one
 In the previous challenge, you used a single conditional operator. You can also chain them together to check for multiple conditions.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-multiple-conditional-ternary-operators.js)  
+
+## Use Recursion to Create a Countdown
+In a [previous challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators), you learned how to use recursion to replace a for loop. Now, let's look at a more complex function that returns an array of consecutive integers starting with 1 through the number passed to the function.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-recursion-to-create-a-countdown.js)  
