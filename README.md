@@ -559,3 +559,8 @@ In the previous challenge, you used a single conditional operator. You can also 
 In a [previous challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators), you learned how to use recursion to replace a for loop. Now, let's look at a more complex function that returns an array of consecutive integers starting with 1 through the number passed to the function.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-countdown)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-recursion-to-create-a-countdown.js)  
+
+## Use Recursion to Create a Range of Numbers
+Continuing from the previous challenge, we provide you another opportunity to create a recursive function to solve a problem.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-recursion-to-create-a-range-of-numbers.js)  
