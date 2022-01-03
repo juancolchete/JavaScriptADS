@@ -563,4 +563,10 @@ In a [previous challenge](https://www.freecodecamp.org/learn/javascript-algorith
 ## Use Recursion to Create a Range of Numbers
 Continuing from the previous challenge, we provide you another opportunity to create a recursive function to solve a problem.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-recursion-to-create-a-range-of-numbers)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-recursion-to-create-a-range-of-numbers.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/use-recursion-to-create-a-range-of-numbers.js) 
+
+## Compare Scopes of the var and let Keywords
+When you declare a variable with the ```var``` keyword, it is declared globally, or locally if declared inside a function.  
+The ```let``` keyword behaves similarly, but with some extra features. When you declare a variable with the ```let``` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.    
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compare-scopes-of-the-var-and-let-keywords.js)  
