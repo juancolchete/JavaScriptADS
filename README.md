@@ -569,4 +569,4 @@ Continuing from the previous challenge, we provide you another opportunity to cr
 When you declare a variable with the ```var``` keyword, it is declared globally, or locally if declared inside a function.  
 The ```let``` keyword behaves similarly, but with some extra features. When you declare a variable with the ```let``` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/compare-scopes-of-the-var-and-let-keywords.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/compare-scopes-of-the-var-and-let-keywords.js)  
