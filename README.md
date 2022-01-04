@@ -70,7 +70,7 @@ You can easily decrement or decrease a variable by one with the ```--``` operato
 ## Create Decimal Numbers with JavaScript
 We can store decimal numbers in variables too. Decimal numbers are sometimes referred to as floating point numbers or floats.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/create-decimal-numbers-with-javascript)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/create-decimal-numbers-with-javascript.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/create-decimal-numbers-with-javascript.js)  
 
 ## Multiply Two Decimals with JavaScript
 In JavaScript, you can also perform calculations with decimal numbers, just like whole numbers.  
