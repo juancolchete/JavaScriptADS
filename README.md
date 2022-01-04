@@ -1,6 +1,8 @@
 # JavaScript Algorithms and Data Structures
  This repo, aims to solve the freecodecamp course of JavaScript Algorithms and Data Structures Certification
 
+# Basic Javascript
+
 ## Comment Your JavaScript Code
 Comments are lines of code that JavaScript will intentionally ignore. Comments are a great way to leave notes to yourself and to other people who will later need to figure out what that code does.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)  
