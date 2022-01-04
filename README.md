@@ -60,7 +60,7 @@ We can also divide one number by another.
 ## Increment a Number with JavaScript
 You can easily increment or add one to a variable with the ```++``` operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/increment-a-number-with-javascript.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/increment-a-number-with-javascript.js)  
 
 ## Decrement a Number with JavaScript
 You can easily decrement or decrease a variable by one with the ```--``` operator.  
