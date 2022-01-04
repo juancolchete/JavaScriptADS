@@ -7,7 +7,6 @@
 Comments are lines of code that JavaScript will intentionally ignore. Comments are a great way to leave notes to yourself and to other people who will later need to figure out what that code does.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)  
 [solution](https://github.com/juanudk/javascript-algorithms-and-data-structures/blob/main/basic-javascript/comment-your-javascript-code.js)  
-
 ## Declare JavaScript Variables
 In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are ```undefined```, ```null```, ```boolean```, ```string```, ```symbol```, ```bigint```, ```number```, and ```object```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)   
@@ -51,7 +50,7 @@ In JavaScript all variables and function names are case sensitive. This means th
 ## Subtract One Number from Another with JavaScript
 We can also subtract one number from another.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/subtract-one-number-from-another-with-javascript)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/subtract-one-number-from-another-with-javascript.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/subtract-one-number-from-another-with-javascript.js)  
 
 ## Divide One Number by Another with JavaScript
 We can also divide one number by another.  
