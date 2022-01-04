@@ -80,7 +80,7 @@ In JavaScript, you can also perform calculations with decimal numbers, just like
 ## Divide One Decimal by Another with JavaScript
 Now let's divide one decimal by another.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-decimal-by-another-with-javascript)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-decimal-by-another-with-javascript.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/divide-one-decimal-by-another-with-javascript.js)  
 
 ## Finding a Remainder in JavaScript
 The remainder operator ```%``` gives the remainder of the division of two numbers.  
