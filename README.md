@@ -55,7 +55,7 @@ We can also subtract one number from another.
 ## Divide One Number by Another with JavaScript
 We can also divide one number by another.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/divide-one-number-by-another-with-javascript)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/divide-one-number-by-another-with-javascript.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/divide-one-number-by-another-with-javascript.js)  
 
 ## Increment a Number with JavaScript
 You can easily increment or add one to a variable with the ```++``` operator.  
