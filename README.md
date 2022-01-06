@@ -573,3 +573,9 @@ When you declare a variable with the ```var``` keyword, it is declared globally,
 The ```let``` keyword behaves similarly, but with some extra features. When you declare a variable with the ```let``` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/compare-scopes-of-the-var-and-let-keywords.js)  
+
+## Mutate an Array Declared with const
+Some developers prefer to assign all their variables using ```const``` by default, unless they know they will need to reassign the value. Only in that case, they use ```let```.  
+However, it is important to understand that objects (including arrays and functions) assigned to a variable using ```const``` are still mutable. Using the ```const``` declaration only prevents reassignment of the variable identifier.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/mutate-an-array-declared-with-const.js)  
