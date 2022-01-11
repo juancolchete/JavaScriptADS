@@ -578,4 +578,4 @@ The ```let``` keyword behaves similarly, but with some extra features. When you 
 Some developers prefer to assign all their variables using ```const``` by default, unless they know they will need to reassign the value. Only in that case, they use ```let```.  
 However, it is important to understand that objects (including arrays and functions) assigned to a variable using ```const``` are still mutable. Using the ```const``` declaration only prevents reassignment of the variable identifier.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/mutate-an-array-declared-with-const.js)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/mutate-an-array-declared-with-const.js)  
