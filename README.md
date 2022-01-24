@@ -584,3 +584,8 @@ However, it is important to understand that objects (including arrays and functi
 As seen in the previous challenge, const declaration alone doesn't really protect your data from mutation. To ensure your data doesn't change, JavaScript provides a function Object.freeze to prevent data mutation.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/prevent-object-mutation)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/prevent-object-mutation.js) 
+
+## Use Arrow Functions to Write Concise Anonymous Functions
+In JavaScript, we often don't need to name our functions, especially when passing a function as an argument to another function. Instead, we create inline functions. We don't need to name these functions because we do not reuse them anywhere else.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-arrow-functions-to-write-concise-anonymous-functions.js) 
