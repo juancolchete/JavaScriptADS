@@ -594,3 +594,8 @@ In JavaScript, we often don't need to name our functions, especially when passin
 Just like a regular function, you can pass arguments into an arrow function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-arrow-functions-with-parameters.js) 
+
+## Set Default Parameters for Your Functions
+In order to help us create more flexible functions, ES6 introduces default parameters for functions.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/set-default-parameters-for-your-functions.js) 
