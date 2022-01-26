@@ -586,6 +586,11 @@ As seen in the previous challenge, const declaration alone doesn't really protec
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/prevent-object-mutation.js) 
 
 ## Use Arrow Functions to Write Concise Anonymous Functions
-In JavaScript, we often don't need to name our functions, especially when passing a function as an argument to another function. Instead, we create inline functions. We don't need to name these functions because we do not reuse them anywhere else.
+In JavaScript, we often don't need to name our functions, especially when passing a function as an argument to another function. Instead, we create inline functions. We don't need to name these functions because we do not reuse them anywhere else.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-arrow-functions-to-write-concise-anonymous-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-arrow-functions-to-write-concise-anonymous-functions.js) 
+
+## Write Arrow Functions with Parameters
+Just like a regular function, you can pass arguments into an arrow function.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-arrow-functions-with-parameters)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-arrow-functions-with-parameters.js) 
