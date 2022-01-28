@@ -599,3 +599,8 @@ Just like a regular function, you can pass arguments into an arrow function.
 In order to help us create more flexible functions, ES6 introduces default parameters for functions.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/set-default-parameters-for-your-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/set-default-parameters-for-your-functions.js) 
+
+## Use the Rest Parameter with Function Parameters
+In order to help us create more flexible functions, ES6 introduces the rest parameter for function parameters. With the rest parameter, you can create functions that take a variable number of arguments. These arguments are stored in an array that can be accessed later from inside the function.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-rest-parameter-with-function-parameters)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-the-rest-parameter-with-function-parameters.js) 
