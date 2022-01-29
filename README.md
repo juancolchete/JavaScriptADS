@@ -601,6 +601,11 @@ In order to help us create more flexible functions, ES6 introduces default param
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/set-default-parameters-for-your-functions.js) 
 
 ## Use the Rest Parameter with Function Parameters
-In order to help us create more flexible functions, ES6 introduces the rest parameter for function parameters. With the rest parameter, you can create functions that take a variable number of arguments. These arguments are stored in an array that can be accessed later from inside the function.
+In order to help us create more flexible functions, ES6 introduces the rest parameter for function parameters. With the rest parameter, you can create functions that take a variable number of arguments. These arguments are stored in an array that can be accessed later from inside the function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-rest-parameter-with-function-parameters)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-the-rest-parameter-with-function-parameters.js) 
+
+## Use the Spread Operator to Evaluate Arrays In-Place
+ES6 introduces the spread operator, which allows us to expand arrays and other expressions in places where multiple parameters or elements are expected.    
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-the-spread-operator-to-evaluate-arrays-in-place.js) 
