@@ -614,3 +614,9 @@ ES6 introduces the spread operator, which allows us to expand arrays and other e
 Destructuring assignment is special syntax introduced in ES6, for neatly assigning values taken directly from an object.     
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-extract-values-from-objects)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-extract-values-from-objects.js) 
+
+## Use Destructuring Assignment to Assign Variables from Nested Objects
+You can use the same principles from the previous two lessons to destructure values from nested objects.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects.js) 
+
