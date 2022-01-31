@@ -609,3 +609,8 @@ In order to help us create more flexible functions, ES6 introduces the rest para
 ES6 introduces the spread operator, which allows us to expand arrays and other expressions in places where multiple parameters or elements are expected.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-the-spread-operator-to-evaluate-arrays-in-place.js) 
+
+## Use Destructuring Assignment to Extract Values from Objects
+Destructuring assignment is special syntax introduced in ES6, for neatly assigning values taken directly from an object.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-extract-values-from-objects)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-extract-values-from-objects.js) 
