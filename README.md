@@ -620,3 +620,7 @@ You can use the same principles from the previous two lessons to destructure val
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-assign-variables-from-nested-objects.js) 
 
+## Use Destructuring Assignment to Assign Variables from Arrays
+One key difference between the spread operator and array destructuring is that the spread operator unpacks all contents of an array into a comma-separated list. Consequently, you cannot pick or choose which elements you want to assign to variables.       
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-assign-variables-from-arrays.js) 
