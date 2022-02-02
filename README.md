@@ -624,3 +624,8 @@ You can use the same principles from the previous two lessons to destructure val
 One key difference between the spread operator and array destructuring is that the spread operator unpacks all contents of an array into a comma-separated list. Consequently, you cannot pick or choose which elements you want to assign to variables.       
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-assign-variables-from-arrays)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-assign-variables-from-arrays.js) 
+
+## Use Destructuring Assignment with the Rest Parameter to Reassign Array Elements
+In some situations involving array destructuring, we might want to collect the rest of the elements into a separate array.         
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements.js) 
