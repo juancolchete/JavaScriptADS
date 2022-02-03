@@ -629,3 +629,8 @@ One key difference between the spread operator and array destructuring is that t
 In some situations involving array destructuring, we might want to collect the rest of the elements into a separate array.         
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements.js) 
+
+## Use Destructuring Assignment to Pass an Object as a Function's Parameters
+In some cases, you can destructure the object in a function argument itself.           
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.js) 
