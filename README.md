@@ -634,3 +634,8 @@ In some situations involving array destructuring, we might want to collect the r
 In some cases, you can destructure the object in a function argument itself.           
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters.js) 
+
+## Write Concise Object Literal Declarations Using Object Property Shorthand
+ES6 adds some nice support for easily defining object literals.       
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-object-literal-declarations-using-object-property-shorthand)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-concise-object-literal-declarations-using-object-property-shorthand.js) 
