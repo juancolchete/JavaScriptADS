@@ -649,3 +649,8 @@ When defining functions within objects in ES5, we have to use the keyword `funct
 ES6 provides a new syntax to create objects, using the class keyword.       
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-class-syntax-to-define-a-constructor-function.js) 
+
+## Use getters and setters to Control Access to an Object
+You can obtain values from an object and set the value of a property within an object.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-getters-and-setters-to-control-access-to-an-object.js) 
