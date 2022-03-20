@@ -654,3 +654,8 @@ ES6 provides a new syntax to create objects, using the class keyword.
 You can obtain values from an object and set the value of a property within an object.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-getters-and-setters-to-control-access-to-an-object.js) 
+
+## Create a Module Script
+JavaScript started with a small role to play on an otherwise mostly HTML web. Today, it’s huge, and some websites are built almost entirely with JavaScript. In order to make JavaScript more modular, clean, and maintainable; ES6 introduced a way to easily share code among JavaScript files. This involves exporting parts of a file for use in one or more other files, and importing the parts you need, where you need them. In order to take advantage of this functionality, you need to create a script in your HTML document with a `type` of `module`.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-a-module-script.html) 
