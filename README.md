@@ -643,4 +643,9 @@ ES6 adds some nice support for easily defining object literals.
 ## Write Concise Declarative Functions with ES6
 When defining functions within objects in ES5, we have to use the keyword function as follows         
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-concise-declarative-functions-with-es6.js) 
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-concise-declarative-functions-with-es6.js)  
+
+## Use class Syntax to Define a Constructor Function
+ES6 provides a new syntax to create objects, using the class keyword.       
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-class-syntax-to-define-a-constructor-function.js)  
