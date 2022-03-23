@@ -8,12 +8,12 @@ Comments are lines of code that JavaScript will intentionally ignore. Comments a
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)  
 [solution](https://github.com/juanudk/javascript-algorithms-and-data-structures/blob/main/basic-javascript/comment-your-javascript-code.js)  
 ## Declare JavaScript Variables
-In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number`, and `object`.  
+In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are ```undefined```, ```null```, ```boolean```, ```string```, ```symbol```, ```bigint```, ```number```, and ```object```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/declare-javascript-variables.js)  
 
 ## Storing Values with the Assignment Operator
-In JavaScript, you can store a value in a variable with the assignment operator (`=`).  
+In JavaScript, you can store a value in a variable with the assignment operator (```=```).  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/storing-values-with-the-assignment-operator.js)  
 
@@ -28,7 +28,7 @@ It is common to initialize a variable to an initial value in the same line as it
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/initializing-variables-with-the-assignment-operator.js)  
 
 ## Understanding Uninitialized Variables
-When JavaScript variables are declared, they have an initial value of `undefined`. If you do a mathematical operation on an `undefined` variable your result will be `NaN` which means "Not a Number". If you concatenate a string with an `undefined` variable, you will get a literal string of `undefined`.  
+When JavaScript variables are declared, they have an initial value of ```undefined```. If you do a mathematical operation on an ```undefined``` variable your result will be ```NaN``` which means "Not a Number". If you concatenate a string with an ```undefined``` variable, you will get a literal string of ```undefined```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-uninitialized-variables)   
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/understanding-uninitialized-variables.js)  
 
@@ -43,7 +43,7 @@ In JavaScript all variables and function names are case sensitive. This means th
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/understanding-case-sensitivity-in-variables.js)  
 
 ## Add Two Numbers with JavaScript
-`Number` is a data type in JavaScript which represents numeric data.  
+```Number``` is a data type in JavaScript which represents numeric data.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/add-two-numbers-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/add-two-numbers-with-javascript.js)  
 
@@ -58,12 +58,12 @@ We can also divide one number by another.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/divide-one-number-by-another-with-javascript.js)  
 
 ## Increment a Number with JavaScript
-You can easily increment or add one to a variable with the `++` operator.  
+You can easily increment or add one to a variable with the ```++``` operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/increment-a-number-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/increment-a-number-with-javascript.js)  
 
 ## Decrement a Number with JavaScript
-You can easily decrement or decrease a variable by one with the `--` operator.  
+You can easily decrement or decrease a variable by one with the ```--``` operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/decrement-a-number-with-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/decrement-a-number-with-javascript.js)  
 
@@ -83,7 +83,7 @@ Now let's divide one decimal by another.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/divide-one-decimal-by-another-with-javascript.js)  
 
 ## Finding a Remainder in JavaScript
-The remainder operator `%` gives the remainder of the division of two numbers.  
+The remainder operator ```%``` gives the remainder of the division of two numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/finding-a-remainder-in-javascript)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/finding-a-remainder-in-javascript.js)  
 
@@ -93,27 +93,27 @@ In programming, it is common to use assignments to modify the contents of a vari
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/compound-assignment-with-augmented-addition.js)  
 
 ## Compound Assignment With Augmented Subtraction
-Like the `+=` operator, `-=` subtracts a number from a variable.  
+Like the ```+=``` operator, ```-=``` subtracts a number from a variable.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-subtraction)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/compound-assignment-with-augmented-subtraction.js)  
 
 ## Compound Assignment With Augmented Multiplication
-The `*=` operator multiplies a variable by a number.  
+The ```*=``` operator multiplies a variable by a number.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/compound-assignment-with-augmented-multiplication.js)  
 
 ## Compound Assignment With Augmented Division
-The `/=` operator divides a variable by another number.  
+The ```/=``` operator divides a variable by another number.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-division)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/compound-assignment-with-augmented-division.js)  
 
 ## Declare String Variables
-Create two new string variables: `myFirstName` and `myLastName` and assign them the values of your first and last name, respectively.  
+Create two new string variables: ```myFirstName``` and ```myLastName``` and assign them the values of your first and last name, respectively.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-string-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/declare-string-variables.js)  
 
 ## Escaping Literal Quotes in Strings
-In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (`\`) in front of the quote.  
+In JavaScript, you can escape a quote from considering it as an end of string quote by placing a backslash (```\```) in front of the quote.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/escaping-literal-quotes-in-strings)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/escaping-literal-quotes-in-strings.js)  
 
@@ -128,27 +128,27 @@ Quotes are not the only characters that can be escaped inside a string.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/escape-sequences-in-strings.js)  
 
 ## Concatenating Strings with Plus Operator
-In JavaScript, when the `+` operator is used with a `String` value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.  
+In JavaScript, when the ```+``` operator is used with a ```String``` value, it is called the concatenation operator. You can build a new string out of other strings by concatenating them together.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-plus-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/concatenating-strings-with-plus-operatorf.js)  
 
 ## Concatenating Strings with the Plus Equals Operator
-We can also use the `+=` operator to concatenate a string onto the end of an existing string variable. This can be very helpful to break a long string over several lines.  
+We can also use the ```+=``` operator to concatenate a string onto the end of an existing string variable. This can be very helpful to break a long string over several lines.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/concatenating-strings-with-the-plus-equals-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/concatenating-strings-with-the-plus-equals-operator.js)  
 
 ## Constructing Strings with Variables
-Sometimes you will need to build a string, Mad Libs style. By using the concatenation operator (`+`), you can insert one or more variables into a string you're building.  
+Sometimes you will need to build a string, Mad Libs style. By using the concatenation operator (```+```), you can insert one or more variables into a string you're building.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/constructing-strings-with-variables)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/constructing-strings-with-variables.js)  
 
 ## Appending Variables to Strings
-Just as we can build a string over multiple lines out of string literals, we can also append variables to a string using the plus equals (`+=`) operator.  
+Just as we can build a string over multiple lines out of string literals, we can also append variables to a string using the plus equals (```+=```) operator.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/appending-variables-to-strings)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/appending-variables-to-strings.js)  
 
 ## Find the Length of a String
-You can find the length of a `String` value by writing `.length` after the string variable or string literal.  
+You can find the length of a ```String``` value by writing ```.length``` after the string variable or string literal.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string)    
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/find-the-length-of-a-string.js)  
 
@@ -209,28 +209,28 @@ One way to think of a multi-dimensional array, is as an array of arrays. When yo
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/access-multi-dimensional-arrays-with-indexes.js)  
 
 ## Manipulate Arrays With push()
-An easy way to append data to the end of an array is via the `push()` function.  
+An easy way to append data to the end of an array is via the ```push()``` function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/modify-array-data-with-indexes.js)  
 
 ## Manipulate Arrays With pop()
-Another way to change the data in an array is with the `.pop()` function.  
+Another way to change the data in an array is with the ```.pop()``` function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/manipulate-arrays-with-pop.js)  
 
 ## Manipulate Arrays With shift()
-`pop()` always removes the last element of an array. What if you want to remove the first?  
-That's where `.shift()` comes in. It works just like `.pop()`, except it removes the first element instead of the last.  
+```pop()``` always removes the last element of an array. What if you want to remove the first?  
+That's where ```.shift()``` comes in. It works just like ```.pop()```, except it removes the first element instead of the last.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/manipulate-arrays-with-shift.js)  
 
 ## Manipulate Arrays With unshift()
-Not only can you `shift` elements off of the beginning of an array, you can also `unshift` elements to the beginning of an array i.e. add elements in front of the array.  
+Not only can you ```shift``` elements off of the beginning of an array, you can also ```unshift``` elements to the beginning of an array i.e. add elements in front of the array.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/manipulate-arrays-with-unshift.js) 
 
 ## Shopping List
-Create a shopping list in the variable `myList`. The list should be a multi-dimensional array containing several sub-arrays.  
+Create a shopping list in the variable ```myList```. The list should be a multi-dimensional array containing several sub-arrays.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/shopping-list.js)
 
@@ -260,13 +260,13 @@ It is possible to have both local and global variables with the same name. When 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/global-vs--local-scope-in-functions.js)  
 
 ## Return a Value from a Function with Return
-We can pass values into a function with arguments. You can use a `return` statement to send a value back out of a function.  
+We can pass values into a function with arguments. You can use a ```return``` statement to send a value back out of a function.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/return-a-value-from-a-function-with-return.js)  
 
 
 ## Understanding Undefined Value returned from a Function
-A function can include the `return` statement but it does not have to. In the case that the function doesn't have a `return` statement, when you call it, the function processes the inner code but the returned value is `undefined`.  
+A function can include the ```return``` statement but it does not have to. In the case that the function doesn't have a ```return``` statement, when you call it, the function processes the inner code but the returned value is ```undefined```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/understanding-undefined-value-returned-from-a-function.js)  
 
@@ -281,17 +281,17 @@ In Computer Science a queue is an abstract Data Structure where items are kept i
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/stand-in-line.js)  
 
 ## Understanding Boolean Values
-Another data type is the Boolean. Booleans may only be one of two values: `true` or `false`. They are basically little on-off switches, where `true` is on and `false` is off. These two states are mutually exclusive.  
+Another data type is the Boolean. Booleans may only be one of two values: ```true``` or ```false```. They are basically little on-off switches, where ```true``` is on and ```false``` is off. These two states are mutually exclusive.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-boolean-values)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/understanding-boolean-values.js)  
 
 ## Use Conditional Logic with If Statements
-`If` statements are used to make decisions in code. The keyword `if` tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses. These conditions are known as `Boolean` conditions and they may only be `true` or `false`.  
+```If``` statements are used to make decisions in code. The keyword ```if``` tells JavaScript to execute the code in the curly braces under certain conditions, defined in the parentheses. These conditions are known as ```Boolean``` conditions and they may only be ```true``` or ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/use-conditional-logic-with-if-statements.js) 
 
 ## Comparison with the Equality Operator
-There are many comparison operators in JavaScript. All of these operators return a boolean `true` or `false` value.  
+There are many comparison operators in JavaScript. All of these operators return a boolean ```true``` or ```false``` value.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-equality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-equality-operator.js)  
 
@@ -301,52 +301,52 @@ Strict equality (===) is the counterpart to the equality operator (==). However,
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-strict-equality-operator.js)  
 
 ## Practice comparing different values
-In the last two challenges, we learned about the equality operator (`==`) and the strict equality operator (`===`). Let's do a quick review and practice using these operators some more.  
+In the last two challenges, we learned about the equality operator (```==```) and the strict equality operator (```===```). Let's do a quick review and practice using these operators some more.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/practice-comparing-different-values)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/practice-comparing-different-values.js)
 
 ## Comparison with the Inequality Operator
-he inequality operator (`!=`) is the opposite of the equality operator. It means not equal and returns `false` where equality would return `true` and vice versa. Like the equality operator, the inequality operator will convert data types of values while comparing.  
+he inequality operator (```!=```) is the opposite of the equality operator. It means not equal and returns ```false``` where equality would return ```true``` and vice versa. Like the equality operator, the inequality operator will convert data types of values while comparing.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-inequality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-inequality-operator.js)  
 
 ## Comparison with the Strict Inequality Operator
-The strict inequality operator (`!==`) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns `false` where strict equality would return `true` and vice versa. The strict inequality operator will not convert data types.  
+The strict inequality operator (```!==```) is the logical opposite of the strict equality operator. It means "Strictly Not Equal" and returns ```false``` where strict equality would return ```true``` and vice versa. The strict inequality operator will not convert data types.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-strict-inequality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-strict-inequality-operator.js)  
 
 ## Comparison with the Greater Than Operator
-The greater than operator (`>`) compares the values of two numbers. If the number to the left is greater than the number to the right, it returns `true`. Otherwise, it returns `false`.  
+The greater than operator (```>```) compares the values of two numbers. If the number to the left is greater than the number to the right, it returns ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-greater-than-operator.js)  
 
 ## Comparison with the Greater Than Or Equal To Operator
-The greater than or equal to operator (`>=`) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns `true`. Otherwise, it returns `false`.  
+The greater than or equal to operator (```>=```) compares the values of two numbers. If the number to the left is greater than or equal to the number to the right, it returns ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-greater-than-or-equal-to-operator.js)  
 
 ## Comparison with the Less Than Operator
-The less than operator (`<`) compares the values of two numbers. If the number to the left is less than the number to the right, it returns `true`. Otherwise, it returns `false`. Like the equality operator, the less than operator converts data types while comparing.  
+The less than operator (```<```) compares the values of two numbers. If the number to the left is less than the number to the right, it returns ```true```. Otherwise, it returns ```false```. Like the equality operator, the less than operator converts data types while comparing.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-less-than-operator.js)
 
 ## Comparison with the Less Than Or Equal To Operator
-The less than or equal to operator (`<=`) compares the values of two numbers. If the number to the left is less than or equal to the number to the right, it returns `true`. If the number on the left is greater than the number on the right, it returns `false`. Like the equality operator, the less than or equal to operator converts data types.  
+The less than or equal to operator (```<=```) compares the values of two numbers. If the number to the left is less than or equal to the number to the right, it returns ```true```. If the number on the left is greater than the number on the right, it returns ```false```. Like the equality operator, the less than or equal to operator converts data types.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparison-with-the-less-than-or-equal-to-operator.js)  
 
 ## Comparisons with the Logical And Operator
-Sometimes you will need to test more than one thing at a time. The logical and operator (`&&`) returns `true` if and only if the operands to the left and right of it are true.  
+Sometimes you will need to test more than one thing at a time. The logical and operator (```&&```) returns ```true``` if and only if the operands to the left and right of it are true.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparisons-with-the-logical-and-operator.js)  
 
 ## Comparisons with the Logical Or Operator
-The logical or operator (`||`) returns `true` if either of the operands is `true`. Otherwise, it returns `false`.  
+The logical or operator (```||```) returns ```true``` if either of the operands is ```true```. Otherwise, it returns ```false```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/comparisons-with-the-logical-or-operator.js)  
 
 ## Introducing Else Statements
-When a condition for an `if` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an `else` statement, an alternate block of code can be executed.  
+When a condition for an ```if``` statement is true, the block of code following it is executed. What about when that condition is false? Normally nothing would happen. With an ```else``` statement, an alternate block of code can be executed.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/introducing-else-statements.js)  
 
@@ -356,37 +356,37 @@ If you have multiple conditions that need to be addressed, you can chain if stat
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/introducing-else-if-statements.js)  
 
 ## Logical Order in If Else Statements
-Order is important in `if`, `else if` statements.  
+Order is important in ```if```, ```else if``` statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/logical-order-in-if-else-statements.js) 
 
 ## Chaining If Else Statements
-`if/else` statements can be chained together for complex logic.  
+```if/else``` statements can be chained together for complex logic.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/chaining-if-else-statements.js)  
 
 ## Golf Code
-In the game of golf, each hole has a `par`, meaning, the average number of `strokes` a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below `par` your `strokes` are, there is a different nickname.  
+In the game of golf, each hole has a ```par```, meaning, the average number of ```strokes``` a golfer is expected to make in order to sink the ball in the hole to complete the play. Depending on how far above or below ```par``` your ```strokes``` are, there is a different nickname.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/golf-code.js)  
 
 ## Selecting from Many Options with Switch Statements
-If you have many options to choose from, use a switch statement. A `switch` statement tests a value and can have many case statements which define various possible values. Statements are executed from the first matched `case` value until a `break` is encountered.  
+If you have many options to choose from, use a switch statement. A ```switch``` statement tests a value and can have many case statements which define various possible values. Statements are executed from the first matched ```case``` value until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/selecting-from-many-options-with-switch-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/selecting-from-many-options-with-switch-statements.js)  
 
 ## Adding a Default Option in Switch Statements
-In a `switch` statement you may not be able to specify all possible values as `case` statements. Instead, you can add the `default` statement which will be executed if no matching `case` statements are found. Think of it like the final `else` statement in an `if/else` chain.  
+In a ```switch``` statement you may not be able to specify all possible values as ```case``` statements. Instead, you can add the ```default``` statement which will be executed if no matching ```case``` statements are found. Think of it like the final ```else``` statement in an ```if/else``` chain.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/adding-a-default-option-in-switch-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/adding-a-default-option-in-switch-statements.js) 
 
 ## Multiple Identical Options in Switch Statements
-If the `break` statement is omitted from a `switch` statement's `case`, the following `case` statement(s) are executed until a `break` is encountered.  
+If the ```break``` statement is omitted from a ```switch``` statement's ```case```, the following ```case``` statement(s) are executed until a ```break``` is encountered.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/multiple-identical-options-in-switch-statements)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/multiple-identical-options-in-switch-statements.js)  
 
 ## Replacing If Else Chains with Switch
-If you have many options to choose from, a `switch` statement can be easier to write than many chained `if`/`else if` statements.  
+If you have many options to choose from, a ```switch``` statement can be easier to write than many chained ```if```/```else if``` statements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replacing-if-else-chains-with-switch)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/replacing-if-else-chains-with-switch.js)  
 
@@ -396,7 +396,7 @@ You may recall from [Comparison with the Equality Operator](https://www.freecode
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/returning-boolean-values-from-functions.js)  
 
 ## Return Early Pattern for Functions
-When a `return` statement is reached, the execution of the current function stops and control returns to the calling location.  
+When a ```return``` statement is reached, the execution of the current function stops and control returns to the calling location.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-early-pattern-for-functions)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/return-early-pattern-for-functions.js)  
 
@@ -406,17 +406,17 @@ In the casino game Blackjack, a player can gain an advantage over the house by k
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/counting-cards.js) 
 
 ## Build JavaScript Objects
-Objects are similar to `arrays`, except that instead of using indexes to access and modify their data, you access the data in objects through what are called `properties`.  
+Objects are similar to ```arrays```, except that instead of using indexes to access and modify their data, you access the data in objects through what are called ```properties```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/build-javascript-objects.js)  
 
 ## Accessing Object Properties with Dot Notation
-There are two ways to access the properties of an object: dot notation (`.`) and bracket notation (`[]`), similar to an array.  
+There are two ways to access the properties of an object: dot notation (```.```) and bracket notation (```[]```), similar to an array.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/accessing-object-properties-with-dot-notation.js)  
 
 ## Accessing Object Properties with Bracket Notation
-The second way to access the properties of an object is bracket notation (`[]`). If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.  
+The second way to access the properties of an object is bracket notation (```[]```). If the property of the object you are trying to access has a space in its name, you will need to use bracket notation.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/accessing-object-properties-with-bracket-notation.js)  
 
@@ -437,20 +437,20 @@ You can add new properties to existing JavaScript objects the same way you would
 
 ## Delete Properties from a JavaScript Object
 We can also delete properties from objects like this:
-`
+```
 delete ourDog.bark;
-`
+```
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/delete-properties-from-a-javascript-object)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/delete-properties-from-a-javascript-object.js)  
 
 ## Using Objects for Lookups
-Objects can be thought of as a key/value storage, like a dictionary. If you have tabular data, you can use an object to lookup values rather than a `switch` statement or an `if/else` chain. This is most useful when you know that your input data is limited to a certain range.  
+Objects can be thought of as a key/value storage, like a dictionary. If you have tabular data, you can use an object to lookup values rather than a ```switch``` statement or an ```if/else``` chain. This is most useful when you know that your input data is limited to a certain range.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/using-objects-for-lookups)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/using-objects-for-lookups.js)  
 
 ## Testing Objects for Properties
 Testing Objects for PropertiesPassed
-Sometimes it is useful to check if the property of a given object exists or not. We can use the `.hasOwnProperty(propname)` method of objects to determine if that object has the given property name. `.hasOwnProperty()` returns `true` or `false` if the property is found or not.  
+Sometimes it is useful to check if the property of a given object exists or not. We can use the ```.hasOwnProperty(propname)``` method of objects to determine if that object has the given property name. ```.hasOwnProperty()``` returns ```true``` or ```false``` if the property is found or not.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/testing-objects-for-properties)    
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/testing-objects-for-properties.js)  
 
@@ -485,7 +485,7 @@ You can run the same code multiple times by using a loop.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/iterate-with-javascript-for-loops.js)  
 
 ## Iterate Odd Numbers With a For Loop
-For loops don't have to iterate one at a time. By changing our `final-expression`, we can count by even numbers.  
+For loops don't have to iterate one at a time. By changing our ```final-expression```, we can count by even numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-odd-numbers-with-a-for-loop)
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/iterate-odd-numbers-with-a-for-loop.js)
 
@@ -495,7 +495,7 @@ A for loop can also count backwards, so long as we can define the right conditio
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/count-backwards-with-a-for-loop.js)  
 
 ## Iterate Through an Array with a For Loop
-A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a `for` loop.  
+A common task in JavaScript is to iterate through the contents of an array. One way to do that is with a ```for``` loop.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-through-an-array-with-a-for-loop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/iterate-through-an-array-with-a-for-loop.js)  
 
@@ -506,12 +506,12 @@ If you have a multi-dimensional array, you can use the same logic as the prior w
 
 
 ## Iterate with JavaScript Do...While Loops
-The next type of loop you will learn is called a `do...while loop`. It is called a `do...while` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.  
+The next type of loop you will learn is called a ```do...while loop```. It is called a ```do...while``` loop because it will first do one pass of the code inside the loop no matter what, and then continue to run the loop while the specified condition evaluates to true.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-do---while-loops)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/iterate-with-javascript-do---while-loops.js)  
 
 ## Replace Loops using Recursion
-Recursion is the concept that a function can be expressed in terms of itself. To help understand this, start by thinking about the following task: multiply the first `n` elements of an array to create the product of those elements.  
+Recursion is the concept that a function can be expressed in terms of itself. To help understand this, start by thinking about the following task: multiply the first ```n``` elements of an array to create the product of those elements.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/replace-loops-using-recursion)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/replace-loops-using-recursion.js)  
 
@@ -536,12 +536,12 @@ Instead of generating a random whole number between zero and a given number like
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/generate-random-whole-numbers-within-a-range.js)  
 
 ## Use the parseInt Function
-The `parseInt()` function parses a string and returns an integer.  
+The ```parseInt()``` function parses a string and returns an integer.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/use-the-parseint-function.js)  
 
 ## Use the parseInt Function with a Radix
-The `parseInt()` function parses a string and returns an integer. It takes a second argument for the radix, which specifies the base of the number in the string. The radix can be an integer between 2 and 36.  
+The ```parseInt()``` function parses a string and returns an integer. It takes a second argument for the radix, which specifies the base of the number in the string. The radix can be an integer between 2 and 36.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-the-parseint-function-with-a-radix)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-javascript/use-the-parseint-function-with-a-radix.js)  
 
@@ -569,14 +569,14 @@ Continuing from the previous challenge, we provide you another opportunity to cr
 # ECMAScript 6
 
 ## Compare Scopes of the var and let Keywords
-When you declare a variable with the `var` keyword, it is declared globally, or locally if declared inside a function.  
-The `let` keyword behaves similarly, but with some extra features. When you declare a variable with the `let` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.    
+When you declare a variable with the ```var``` keyword, it is declared globally, or locally if declared inside a function.  
+The ```let``` keyword behaves similarly, but with some extra features. When you declare a variable with the ```let``` keyword inside a block, statement, or expression, its scope is limited to that block, statement, or expression.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/compare-scopes-of-the-var-and-let-keywords)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/compare-scopes-of-the-var-and-let-keywords.js)  
 
 ## Mutate an Array Declared with const
-Some developers prefer to assign all their variables using `const` by default, unless they know they will need to reassign the value. Only in that case, they use `let`.  
-However, it is important to understand that objects (including arrays and functions) assigned to a variable using `const` are still mutable. Using the `const` declaration only prevents reassignment of the variable identifier.  
+Some developers prefer to assign all their variables using ```const``` by default, unless they know they will need to reassign the value. Only in that case, they use ```let```.  
+However, it is important to understand that objects (including arrays and functions) assigned to a variable using ```const``` are still mutable. Using the ```const``` declaration only prevents reassignment of the variable identifier.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/mutate-an-array-declared-with-const)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/mutate-an-array-declared-with-const.js)  
 
@@ -641,21 +641,6 @@ ES6 adds some nice support for easily defining object literals.
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-concise-object-literal-declarations-using-object-property-shorthand.js) 
 
 ## Write Concise Declarative Functions with ES6
-When defining functions within objects in ES5, we have to use the keyword `function`.       
+When defining functions within objects in ES5, we have to use the keyword function as follows         
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/write-concise-declarative-functions-with-es6.js) 
-
-## Use class Syntax to Define a Constructor Function
-ES6 provides a new syntax to create objects, using the class keyword.       
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-class-syntax-to-define-a-constructor-function)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-class-syntax-to-define-a-constructor-function.js) 
-
-## Use getters and setters to Control Access to an Object
-You can obtain values from an object and set the value of a property within an object.   
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-getters-and-setters-to-control-access-to-an-object)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-getters-and-setters-to-control-access-to-an-object.js) 
-
-## Create a Module Script
-JavaScript started with a small role to play on an otherwise mostly HTML web. Today, it’s huge, and some websites are built almost entirely with JavaScript. In order to make JavaScript more modular, clean, and maintainable; ES6 introduced a way to easily share code among JavaScript files. This involves exporting parts of a file for use in one or more other files, and importing the parts you need, where you need them. In order to take advantage of this functionality, you need to create a script in your HTML document with a `type` of `module`.
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-a-module-script.html) 
