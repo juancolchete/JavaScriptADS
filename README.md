@@ -664,3 +664,8 @@ You can obtain values from an object and set the value of a property within an o
 JavaScript started with a small role to play on an otherwise mostly HTML web. Today, it’s huge, and some websites are built almost entirely with JavaScript. In order to make JavaScript more modular, clean, and maintainable; ES6 introduced a way to easily share code among JavaScript files. This involves exporting parts of a file for use in one or more other files, and importing the parts you need, where you need them. In order to take advantage of this functionality, you need to create a script in your HTML document with a `type` of `module`.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-module-script)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-a-module-script.html) 
+
+## Use export to Share a Code Block
+Imagine a file called `math_functions.js` that contains several functions related to mathematical operations. One of them is stored in a variable, `add`, that takes in two numbers and returns their sum. You want to use this function in several different JavaScript files. In order to share it with these other files, you first need to `export` it.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-export-to-share-a-code-block.js) 
