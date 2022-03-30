@@ -670,7 +670,7 @@ Imagine a file called `math_functions.js` that contains several functions relate
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use-export-to-share-a-code-block)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use-export-to-share-a-code-block.js) 
 
-## Use export to Share a Code Block
+## Reuse JavaScript Code Using import
 `import` allows you to choose which parts of a file or module to load. In the previous lesson, the examples exported `add` from the `math_functions.js` file 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/reuse-javascript-code-using-import.js) 
