@@ -674,3 +674,8 @@ Imagine a file called `math_functions.js` that contains several functions relate
 `import` allows you to choose which parts of a file or module to load. In the previous lesson, the examples exported `add` from the `math_functions.js` file 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/reuse-javascript-code-using-import)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/reuse-javascript-code-using-import.js) 
+
+## Use * to Import Everything from a File
+Suppose you have a file and you wish to import all of its contents into the current file. This can be done with the `import * as` syntax. Here's an example where the contents of a file named `math_functions.js` are imported into a file in the same directory
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use--to-import-everything-from-a-file.js) 
