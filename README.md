@@ -681,6 +681,6 @@ Suppose you have a file and you wish to import all of its contents into the curr
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/use--to-import-everything-from-a-file.js) 
 
 ## Create an Export Fallback with export default
-In the export lesson, you learned about the syntax referred to as a named `export`. This allowed you to make multiple functions and variables available for use in other files.
+In the export lesson, you learned about the syntax referred to as a named `export`. This allowed you to make multiple functions and variables available for use in other files.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-an-export-fallback-with-export-default.js) 
