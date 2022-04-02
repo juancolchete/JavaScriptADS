@@ -687,5 +687,10 @@ In the export lesson, you learned about the syntax referred to as a named `expor
 
 ## Import a Default Export
 In the last challenge, you learned about `export default` and its uses. To `import` a default export, you need to use a different import syntax. In the following example, `add` is the default export of the `math_functions.js` file.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/import-a-default-export.js) 
+
+## Create a JavaScript Promise
+A promise in JavaScript is exactly what it sounds like - you use it to make a promise to do something, usually asynchronously. When the task completes, you either fulfill your promise or fail to do so. Promise is a constructor function, so you need to use the `new` keyword to create one. It takes a function, as its argument, with two parameters - `resolve` and `reject`.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-an-export-fallback-with-export-default.js) 
