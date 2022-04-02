@@ -684,3 +684,8 @@ Suppose you have a file and you wish to import all of its contents into the curr
 In the export lesson, you learned about the syntax referred to as a named `export`. This allowed you to make multiple functions and variables available for use in other files.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-an-export-fallback-with-export-default.js) 
+
+## Import a Default Export
+In the last challenge, you learned about `export default` and its uses. To `import` a default export, you need to use a different import syntax. In the following example, `add` is the default export of the `math_functions.js` file. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-an-export-fallback-with-export-default.js) 
