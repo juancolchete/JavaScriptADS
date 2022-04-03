@@ -694,3 +694,8 @@ In the last challenge, you learned about `export default` and its uses. To `impo
 A promise in JavaScript is exactly what it sounds like - you use it to make a promise to do something, usually asynchronously. When the task completes, you either fulfill your promise or fail to do so. Promise is a constructor function, so you need to use the `new` keyword to create one. It takes a function, as its argument, with two parameters - `resolve` and `reject`.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/create-a-javascript-promise)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/create-a-javascript-promise.js) 
+
+## Complete a Promise with resolve and reject
+A promise has three states: `pending`, `fulfilled`, and `rejected`. The promise you created in the last challenge is forever stuck in the `pending` state because you did not add a way to complete the promise. The `resolve` and `reject` parameters given to the promise argument are used to do this. `resolve` is used when you want your promise to succeed, and `reject` is used when you want it to fail. These are methods that take an argument, as seen below.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/complete-a-promise-with-resolve-and-reject)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/complete-a-promise-with-resolve-and-reject.js) 
