@@ -701,3 +701,5 @@ A promise has three states: `pending`, `fulfilled`, and `rejected`. The promise 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/complete-a-promise-with-resolve-and-reject.js)
 ## Handle a Fulfilled Promise with then 
 Promises are most useful when you have a process that takes an unknown amount of time in your code (i.e. something asynchronous), often a server request. When you make a server request it takes some amount of time, and after it completes you usually want to do something with the response from the server. This can be achieved by using the then method. The `then` method is executed immediately after your promise is fulfilled with `resolve`. Here’s an example:  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-fulfilled-promise-with-then)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/handle-a-fulfilled-promise-with-then.js)
