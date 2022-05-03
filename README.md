@@ -699,7 +699,13 @@ A promise in JavaScript is exactly what it sounds like - you use it to make a pr
 A promise has three states: `pending`, `fulfilled`, and `rejected`. The promise you created in the last challenge is forever stuck in the `pending` state because you did not add a way to complete the promise. The `resolve` and `reject` parameters given to the promise argument are used to do this. `resolve` is used when you want your promise to succeed, and `reject` is used when you want it to fail. These are methods that take an argument, as seen below.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/complete-a-promise-with-resolve-and-reject)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/complete-a-promise-with-resolve-and-reject.js)
+
 ## Handle a Fulfilled Promise with then 
 Promises are most useful when you have a process that takes an unknown amount of time in your code (i.e. something asynchronous), often a server request. When you make a server request it takes some amount of time, and after it completes you usually want to do something with the response from the server. This can be achieved by using the then method. The `then` method is executed immediately after your promise is fulfilled with `resolve`. Here’s an example:  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-fulfilled-promise-with-then)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/handle-a-fulfilled-promise-with-then.js)
+
+## Handle a Rejected Promise with catch
+`catch` is the method used when your promise has been rejected. It is executed immediately after a promise's `reject` method is called  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/handle-a-rejected-promise-with-catch.js)
