@@ -709,3 +709,8 @@ Promises are most useful when you have a process that takes an unknown amount of
 `catch` is the method used when your promise has been rejected. It is executed immediately after a promise's `reject` method is called  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/handle-a-rejected-promise-with-catch)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/es6/handle-a-rejected-promise-with-catch.js)
+
+## Using the Test Method
+Regular expressions are used in programming languages to match parts of strings. You create patterns to help you do that matching.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/handle-a-rejected-promise-with-catch.js)
