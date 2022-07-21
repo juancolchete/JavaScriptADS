@@ -714,3 +714,8 @@ Promises are most useful when you have a process that takes an unknown amount of
 Regular expressions are used in programming languages to match parts of strings. You create patterns to help you do that matching.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/handle-a-rejected-promise-with-catch.js)
+
+## Match Literal Strings
+In the last challenge, you searched for the word `Hello` using the regular expression `/Hello/`. That regex searched for a literal match of the string `Hello`.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/handle-a-rejected-promise-with-catch.js)
