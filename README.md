@@ -713,9 +713,14 @@ Promises are most useful when you have a process that takes an unknown amount of
 ## Using the Test Method
 Regular expressions are used in programming languages to match parts of strings. You create patterns to help you do that matching.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/handle-a-rejected-promise-with-catch.js)
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/using-the-test-method.js)
 
 ## Match Literal Strings
 In the last challenge, you searched for the word `Hello` using the regular expression `/Hello/`. That regex searched for a literal match of the string `Hello`.  
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/using-the-test-method)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/handle-a-rejected-promise-with-catch.js)
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-literal-strings)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-literal-strings.js)
+
+## Match a Literal String with Different Possibilities
+Using regexes like `/coding/`, you can look for the pattern `coding` in another string.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-a-literal-string-with-different-possibilities)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-a-literal-string-with-different-possibilities.js)
