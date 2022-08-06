@@ -726,6 +726,11 @@ Using regexes like `/coding/`, you can look for the pattern `coding` in another 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-a-literal-string-with-different-possibilities.js)
 
 ## Ignore Case While Matching
-Up until now, you've looked at regexes to do literal matches of strings. But sometimes, you might want to also match case differences.
+Up until now, you've looked at regexes to do literal matches of strings. But sometimes, you might want to also match case differences.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/ignore-case-while-matching)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/ignore-case-while-matching.js)
+
+## Extract Matches
+So far, you have only been checking if a pattern exists or not within a string. You can also extract the actual matches you found with the `.match()` method.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/extract-matches)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/extract-matches.js)
