@@ -736,7 +736,7 @@ So far, you have only been checking if a pattern exists or not within a string. 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/extract-matches.js)
 
 ## Find More Than the First Match
-So far, you have only been able to extract or search a pattern once.
+So far, you have only been able to extract or search a pattern once.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-more-than-the-first-match.js)
 find-more-than-the-first-match
