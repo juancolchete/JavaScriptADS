@@ -739,3 +739,8 @@ So far, you have only been checking if a pattern exists or not within a string. 
 So far, you have only been able to extract or search a pattern once.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-more-than-the-first-match)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-more-than-the-first-match.js)
+
+## Match Anything with Wildcard Period
+Sometimes you won't (or don't need to) know the exact characters in your patterns. Thinking of all words that match, say, a misspelling would take a long time.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-anything-with-wildcard-period.js)
