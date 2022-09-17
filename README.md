@@ -744,3 +744,8 @@ So far, you have only been able to extract or search a pattern once.
 Sometimes you won't (or don't need to) know the exact characters in your patterns. Thinking of all words that match, say, a misspelling would take a long time.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-anything-with-wildcard-period)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-anything-with-wildcard-period.js)
+
+## Match Single Character with Multiple Possibilities
+You learned how to match literal patterns (`/literal/`) and wildcard character (`/./`   ). Those are the extremes of regular expressions, where one finds exact matches and the other matches everything. There are options that are a balance between the two extremes. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-character-with-multiple-possibilities)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-anything-with-wildcard-period.js)
