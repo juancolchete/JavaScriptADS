@@ -764,3 +764,8 @@ Using the hyphen (`-`) to match a range of characters is not limited to letters.
 So far, you have created a set of characters that you want to match, but you could also create a set of characters that you do not want to match. These types of character sets are called negated character sets.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-single-characters-not-specified.js)
+
+## Match Characters that Occur One or More Times
+Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. This means it occurs at least once, and may be repeated.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-characters-that-occur-one-or-more-times)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-one-or-more-times.js)
