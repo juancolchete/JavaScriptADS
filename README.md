@@ -758,4 +758,4 @@ You saw how you can use character sets to specify a group of characters to match
 ## Match Numbers and Letters of the Alphabet
 Using the hyphen (`-`) to match a range of characters is not limited to letters. It also works to match a range of numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)  
-[solution]()
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-numbers-and-letters-of-the-alphabet.js)
