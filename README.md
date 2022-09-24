@@ -753,4 +753,9 @@ You learned how to match literal patterns (`/literal/`) and wildcard character (
 ## Match Letters of the Alphabet
 You saw how you can use character sets to specify a group of characters to match, but that's a lot of typing when you need to match a large range of characters (for example, every letter in the alphabet). Fortunately, there is a built-in feature that makes this short and simple.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-anything-with-wildcard-period.js)
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-letters-of-the-alphabet.js)
+
+## Match Numbers and Letters of the Alphabet
+Using the hyphen (`-`) to match a range of characters is not limited to letters. It also works to match a range of numbers.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)  
+[solution]()
