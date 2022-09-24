@@ -759,3 +759,8 @@ You saw how you can use character sets to specify a group of characters to match
 Using the hyphen (`-`) to match a range of characters is not limited to letters. It also works to match a range of numbers.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-numbers-and-letters-of-the-alphabet)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-numbers-and-letters-of-the-alphabet.js)
+
+## Match Single Characters Not Specified
+So far, you have created a set of characters that you want to match, but you could also create a set of characters that you do not want to match. These types of character sets are called negated character sets.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-single-characters-not-specified)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-single-characters-not-specified.js)
