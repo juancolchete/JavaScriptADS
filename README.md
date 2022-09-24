@@ -769,3 +769,8 @@ So far, you have created a set of characters that you want to match, but you cou
 Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. This means it occurs at least once, and may be repeated.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-characters-that-occur-one-or-more-times)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-one-or-more-times.js)
+
+## Match Characters that Occur Zero or More Times
+The last challenge used the plus `+` sign to look for characters that occur one or more times. There's also an option that matches characters that occur zero or more times.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-characters-that-occur-zero-or-more-times)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-zero-or-more-times.js)
