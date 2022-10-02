@@ -751,7 +751,7 @@ You learned how to match literal patterns (`/literal/`) and wildcard character (
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-anything-with-wildcard-period.js)
 
 ## Match Letters of the Alphabet
-You saw how you can use character sets to specify a group of characters to match, but that's a lot of typing when you need to match a large range of characters (for example, every letter in the alphabet). Fortunately, there is a built-in feature that makes this short and simple.
+You saw how you can use character sets to specify a group of characters to match, but that's a lot of typing when you need to match a large range of characters (for example, every letter in the alphabet). Fortunately, there is a built-in feature that makes this short and simple.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-letters-of-the-alphabet)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-letters-of-the-alphabet.js)
 
@@ -767,10 +767,10 @@ So far, you have created a set of characters that you want to match, but you cou
 
 ## Match Characters that Occur One or More Times
 Sometimes, you need to match a character (or group of characters) that appears one or more times in a row. This means it occurs at least once, and may be repeated.  
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-characters-that-occur-one-or-more-times)  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-one-or-more-times)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-one-or-more-times.js)
 
 ## Match Characters that Occur Zero or More Times
 The last challenge used the plus `+` sign to look for characters that occur one or more times. There's also an option that matches characters that occur zero or more times.  
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-characters-that-occur-zero-or-more-times)  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-zero-or-more-times.js)
