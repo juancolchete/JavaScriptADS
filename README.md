@@ -774,3 +774,8 @@ Sometimes, you need to match a character (or group of characters) that appears o
 The last challenge used the plus `+` sign to look for characters that occur one or more times. There's also an option that matches characters that occur zero or more times.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-characters-that-occur-zero-or-more-times)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-characters-that-occur-zero-or-more-times.js)
+
+## Find Characters with Lazy Matching
+In regular expressions, a greedy match finds the longest possible part of a string that fits the regex pattern and returns it as a match. The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-characters-with-lazy-matching.js)
