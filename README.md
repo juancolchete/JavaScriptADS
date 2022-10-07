@@ -779,3 +779,8 @@ The last challenge used the plus `+` sign to look for characters that occur one 
 In regular expressions, a greedy match finds the longest possible part of a string that fits the regex pattern and returns it as a match. The alternative is called a lazy match, which finds the smallest possible part of the string that satisfies the regex pattern.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-characters-with-lazy-matching.js)
+
+## Find Characters with Lazy Matching
+Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-one-or-more-criminals-in-a-hunt.js)
