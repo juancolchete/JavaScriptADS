@@ -786,3 +786,8 @@ In regular expressions, a greedy match finds the longest possible part of a stri
 Time to pause and test your new regex writing skills. A group of criminals escaped from jail and ran away, but you don't know how many. However, you do know that they stay close together when they are around other people. You are responsible for finding all of the criminals at once.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-one-or-more-criminals-in-a-hunt)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/find-one-or-more-criminals-in-a-hunt.js)
+
+## Match Beginning String Patterns
+Prior challenges showed that regular expressions can be used to look for a number of matches. They are also used to search for patterns in specific positions in strings.    
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-beginning-string-patterns.js)
