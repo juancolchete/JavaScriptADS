@@ -791,3 +791,8 @@ Time to pause and test your new regex writing skills. A group of criminals escap
 Prior challenges showed that regular expressions can be used to look for a number of matches. They are also used to search for patterns in specific positions in strings.    
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-beginning-string-patterns)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-beginning-string-patterns.js)
+
+## Match Ending String Patterns
+In the last challenge, you learned to use the caret character to search for patterns at the beginning of strings. There is also a way to search for patterns at the end of strings.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-ending-string-patterns.js)
