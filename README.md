@@ -796,3 +796,8 @@ Prior challenges showed that regular expressions can be used to look for a numbe
 In the last challenge, you learned to use the caret character to search for patterns at the beginning of strings. There is also a way to search for patterns at the end of strings.
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-ending-string-patterns)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-ending-string-patterns.js)
+
+## Match All Letters and Numbers
+Using character classes, you were able to search for all letters of the alphabet with `[a-z]`. This kind of character class is common enough that there is a shortcut for it, although it includes a few extra characters as well.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-letters-and-numbers)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-all-letters-and-numbers.js)
