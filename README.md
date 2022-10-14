@@ -804,5 +804,5 @@ Using character classes, you were able to search for all letters of the alphabet
 
 ## Match Everything But Letters and Numbers
 You've learned that you can use a shortcut to match alphanumerics `[A-Za-z0-9_]` using `\w`. A natural pattern you might want to search for is the opposite of alphanumerics.     
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/match-everything-but-letters-and-numbers)  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-everything-but-letters-and-numbers.js) 
