@@ -806,3 +806,8 @@ Using character classes, you were able to search for all letters of the alphabet
 You've learned that you can use a shortcut to match alphanumerics `[A-Za-z0-9_]` using `\w`. A natural pattern you might want to search for is the opposite of alphanumerics.     
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-everything-but-letters-and-numbers.js) 
+
+## Match All Numbers
+You've learned shortcuts for common string patterns like alphanumerics. Another common pattern is looking for just digits or numbers.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-all-numbers.js) 
