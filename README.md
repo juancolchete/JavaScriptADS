@@ -807,7 +807,7 @@ You've learned that you can use a shortcut to match alphanumerics `[A-Za-z0-9_]`
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-everything-but-letters-and-numbers)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-everything-but-letters-and-numbers.js) 
 
-## Match All Numbers
-You've learned shortcuts for common string patterns like alphanumerics. Another common pattern is looking for just digits or numbers.     
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-numbers)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-all-numbers.js) 
+## Match All Non-Numbers
+The last challenge showed how to search for digits using the shortcut `\d` with a lowercase `d`. You can also search for non-digits using a similar shortcut that uses an uppercase `D` instead. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-all-non-numbers.js) 
