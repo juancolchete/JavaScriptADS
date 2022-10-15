@@ -811,3 +811,8 @@ You've learned that you can use a shortcut to match alphanumerics `[A-Za-z0-9_]`
 The last challenge showed how to search for digits using the shortcut `\d` with a lowercase `d`. You can also search for non-digits using a similar shortcut that uses an uppercase `D` instead. 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-all-non-numbers)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-all-non-numbers.js) 
+
+## Restrict Possible Usernames
+Usernames are used everywhere on the internet. They are what give users a unique identity on their favorite sites.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/restrict-possible-usernames.js) 
