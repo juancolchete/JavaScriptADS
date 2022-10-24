@@ -816,3 +816,8 @@ The last challenge showed how to search for digits using the shortcut `\d` with 
 Usernames are used everywhere on the internet. They are what give users a unique identity on their favorite sites.     
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/restrict-possible-usernames.js) 
+
+## Match Whitespace
+The challenges so far have covered matching letters of the alphabet and numbers. You can also match the whitespace or spaces between letters.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-whitespace.js) 
