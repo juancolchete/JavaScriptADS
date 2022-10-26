@@ -821,3 +821,8 @@ Usernames are used everywhere on the internet. They are what give users a unique
 The challenges so far have covered matching letters of the alphabet and numbers. You can also match the whitespace or spaces between letters.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-whitespace)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-whitespace.js) 
+
+## Match Non-Whitespace Characters
+You learned about searching for whitespace using `\s`, with a lowercase `s`. You can also search for everything except whitespace.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters) 
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-non-whitespace-characters.js) 
