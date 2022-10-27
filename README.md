@@ -826,3 +826,8 @@ The challenges so far have covered matching letters of the alphabet and numbers.
 You learned about searching for whitespace using `\s`, with a lowercase `s`. You can also search for everything except whitespace.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/match-non-whitespace-characters) 
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/match-non-whitespace-characters.js) 
+
+## Specify Upper and Lower Number of Matches
+Recall that you use the plus sign `+` to look for one or more characters and the asterisk `*` to look for zero or more characters. These are convenient but sometimes you want to match a certain range of patterns.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-upper-and-lower-number-of-matches) 
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/specify-upper-and-lower-number-of-matches.js) 
