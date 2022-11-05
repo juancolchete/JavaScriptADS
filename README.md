@@ -836,3 +836,8 @@ Recall that you use the plus sign `+` to look for one or more characters and the
 You can specify the lower and upper number of patterns with quantity specifiers using curly brackets. Sometimes you only want to specify the lower number of patterns with no upper limit.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-only-the-lower-number-of-matches)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/specify-only-the-lower-number-of-matches.js)
+
+## Specify Exact Number of Matches
+You can specify the lower and upper number of patterns with quantity specifiers using curly brackets. Sometimes you only want a specific number of matches.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/specify-exact-number-of-matches.js)
