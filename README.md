@@ -841,3 +841,8 @@ You can specify the lower and upper number of patterns with quantity specifiers 
 You can specify the lower and upper number of patterns with quantity specifiers using curly brackets. Sometimes you only want a specific number of matches.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/specify-exact-number-of-matches)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/specify-exact-number-of-matches.js)
+
+## Check for All or None
+Sometimes the patterns you want to search for may have parts of it that may or may not exist. However, it may be important to check for them nonetheless.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/check-for-all-or-none.js)
