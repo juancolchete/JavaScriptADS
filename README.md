@@ -846,3 +846,8 @@ You can specify the lower and upper number of patterns with quantity specifiers 
 Sometimes the patterns you want to search for may have parts of it that may or may not exist. However, it may be important to check for them nonetheless.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-all-or-none)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/check-for-all-or-none.js)
+
+## Positive and Negative Lookahead
+Lookaheads are patterns that tell JavaScript to look-ahead in your string to check for patterns further along. This can be useful when you want to search for multiple patterns over the same string.      
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/positive-and-negative-lookahead.js)
