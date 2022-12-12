@@ -851,3 +851,9 @@ Sometimes the patterns you want to search for may have parts of it that may or m
 Lookaheads are patterns that tell JavaScript to look-ahead in your string to check for patterns further along. This can be useful when you want to search for multiple patterns over the same string.      
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/positive-and-negative-lookahead.js)
+
+## Check For Mixed Grouping of Characters
+Check For Mixed Grouping of Characters
+Sometimes we want to check for groups of characters using a Regular Expression and to achieve that we use parentheses `()`.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/check-for-mixed-grouping-of-characters.js)
