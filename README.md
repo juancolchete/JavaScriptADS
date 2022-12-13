@@ -872,3 +872,8 @@ You can search and replace text in a string using `.replace()` on a string. The 
 Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it. 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/remove-whitespace-from-start-and-end.js)
+
+## Use the JavaScript Console to Check the Value of a Variable
+Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-the-javascript-console-to-check-the-value-of-a-variable.js)
