@@ -867,3 +867,8 @@ Capture groups are constructed by enclosing the regex pattern to be captured in 
 You can search and replace text in a string using `.replace()` on a string. The inputs for `.replace()` is first the regex pattern you want to search for. The second parameter is the string to replace the match or a function to do something.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/use-capture-groups-to-search-and-replace)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/use-capture-groups-to-search-and-replace.js)
+
+## Remove Whitespace from Start and End
+Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/remove-whitespace-from-start-and-end)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/remove-whitespace-from-start-and-end.js)
