@@ -887,3 +887,8 @@ You may have noticed that some freeCodeCamp challenges include their own console
 You can use `typeof` to check the data structure, or type, of a variable. This is useful in debugging when working with multiple data types. If you think you're adding two numbers, but one is actually a string, the results can be unexpected. Type errors can lurk in calculations or function calls. Be careful especially when you're accessing and working with external data in the form of a JavaScript Object Notation (JSON) object.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-typeof-to-check-the-type-of-a-variable.js)
+
+## Catch Misspelled Variable and Function Names
+The `console.log()` and `typeof` methods are the two primary ways to check intermediate values and types of program output. Now it's time to get into the common forms that bugs take. One syntax-level issue that fast typers can commiserate with is the humble spelling error.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-typeof-to-check-the-type-of-a-variable.js)
