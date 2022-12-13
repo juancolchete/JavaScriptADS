@@ -877,3 +877,8 @@ Sometimes whitespace characters around strings are not wanted but are there. Typ
 Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it. 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-the-javascript-console-to-check-the-value-of-a-variable.js)
+
+## Understanding the Differences between the freeCodeCamp and Browser Console
+You may have noticed that some freeCodeCamp challenges include their own console. This console behaves a little differently than the browser console.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
