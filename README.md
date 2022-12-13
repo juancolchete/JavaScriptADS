@@ -857,3 +857,10 @@ Check For Mixed Grouping of Characters
 Sometimes we want to check for groups of characters using a Regular Expression and to achieve that we use parentheses `()`.     
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/check-for-mixed-grouping-of-characters)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/check-for-mixed-grouping-of-characters.js)
+
+## Reuse Patterns Using Capture Groups
+Capture groups are constructed by enclosing the regex pattern to be captured in parentheses. In this case, the goal is to capture a word consisting of alphanumeric characters so the capture group will be `\w+` enclosed by parentheses: `/(\w+)/`.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/reuse-patterns-using-capture-groups)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/reuse-patterns-using-capture-groups.js)
+
+
