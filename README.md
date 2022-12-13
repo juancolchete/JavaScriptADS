@@ -874,11 +874,16 @@ Sometimes whitespace characters around strings are not wanted but are there. Typ
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/regular-expressions/remove-whitespace-from-start-and-end.js)
 
 ## Use the JavaScript Console to Check the Value of a Variable
-Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it. 
+Sometimes whitespace characters around strings are not wanted but are there. Typical processing of strings is to remove the whitespace at the start and end of it.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-the-javascript-console-to-check-the-value-of-a-variable)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-the-javascript-console-to-check-the-value-of-a-variable.js)
 
 ## Understanding the Differences between the freeCodeCamp and Browser Console
-You may have noticed that some freeCodeCamp challenges include their own console. This console behaves a little differently than the browser console.
+You may have noticed that some freeCodeCamp challenges include their own console. This console behaves a little differently than the browser console.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/understanding-the-differences-between-the-freecodecamp-and-browser-console.js)
+
+## Use typeof to Check the Type of a Variable
+You can use `typeof` to check the data structure, or type, of a variable. This is useful in debugging when working with multiple data types. If you think you're adding two numbers, but one is actually a string, the results can be unexpected. Type errors can lurk in calculations or function calls. Be careful especially when you're accessing and working with external data in the form of a JavaScript Object Notation (JSON) object.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-typeof-to-check-the-type-of-a-variable.js)
