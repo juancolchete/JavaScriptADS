@@ -899,3 +899,9 @@ The `console.log()` and `typeof` methods are the two primary ways to check inter
 Another syntax error to be aware of is that all opening parentheses, brackets, curly braces, and quotes have a closing pair. Forgetting a piece tends to happen when you're editing existing code and inserting items with one of the pair types. Also, take care when nesting code blocks into others, such as adding a callback function as an argument to a method.     
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
+
+## Catch Unclosed Parentheses, Brackets, Braces and Quotes
+JavaScript allows the use of both single (`'`) and double (`"`) quotes to declare a string. Deciding which one to use generally comes down to personal preference, with some exceptions.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
+
