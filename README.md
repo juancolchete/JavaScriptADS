@@ -900,8 +900,8 @@ Another syntax error to be aware of is that all opening parentheses, brackets, c
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
 
-## Catch Unclosed Parentheses, Brackets, Braces and Quotes
-JavaScript allows the use of both single (`'`) and double (`"`) quotes to declare a string. Deciding which one to use generally comes down to personal preference, with some exceptions.
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
+## Catch Use of Assignment Operator Instead of Equality Operator
+Branching programs, i.e. ones that do different things if certain conditions are met, rely on `if`, `else if`, and else statements in JavaScript. The condition sometimes takes the form of testing whether a result is equal to a value.
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-use-of-assignment-operator-instead-of-equality-operator.js)
 
