@@ -892,5 +892,5 @@ You can use `typeof` to check the data structure, or type, of a variable. This i
 
 ## Catch Misspelled Variable and Function Names
 The `console.log()` and `typeof` methods are the two primary ways to check intermediate values and types of program output. Now it's time to get into the common forms that bugs take. One syntax-level issue that fast typers can commiserate with is the humble spelling error.  
-[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-typeof-to-check-the-type-of-a-variable)  
-[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-typeof-to-check-the-type-of-a-variable.js)
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-misspelled-variable-and-function-names.js)
