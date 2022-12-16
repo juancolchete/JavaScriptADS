@@ -914,3 +914,9 @@ When a function or method doesn't take any arguments, you may forget to include 
 Continuing the discussion on calling functions, the next bug to watch out for is when a function's arguments are supplied in the incorrect order. If the arguments are different types, such as a function expecting an array and an integer, this will likely throw a runtime error. If the arguments are the same type (all integers, for example), then the logic of the code won't make sense. Make sure to supply all required arguments, in the proper order to avoid these issues.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function.js)
+
+## Catch Off By One Errors When Using Indexing
+Catch Off By One Errors When Using Indexing
+Off by one errors (sometimes called OBOE) crop up when you're trying to target a specific index of a string or array (to slice or access a segment), or when looping over the indices of them. JavaScript indexing starts at zero, not one, which means the last index is always one less than the length of the item. If you try to access an index equal to the length, the program may throw an "index out of range" reference error or print `undefined`. 
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-off-by-one-errors-when-using-indexing.js)
