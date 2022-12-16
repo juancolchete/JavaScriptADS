@@ -901,7 +901,11 @@ Another syntax error to be aware of is that all opening parentheses, brackets, c
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
 
 ## Catch Use of Assignment Operator Instead of Equality Operator
-Branching programs, i.e. ones that do different things if certain conditions are met, rely on `if`, `else if`, and else statements in JavaScript. The condition sometimes takes the form of testing whether a result is equal to a value.
+Branching programs, i.e. ones that do different things if certain conditions are met, rely on `if`, `else if`, and else statements in JavaScript. The condition sometimes takes the form of testing whether a result is equal to a value.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-use-of-assignment-operator-instead-of-equality-operator)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-use-of-assignment-operator-instead-of-equality-operator.js)
 
+## Catch Missing Open and Closing Parenthesis After a Function Call
+When a function or method doesn't take any arguments, you may forget to include the (empty) opening and closing parentheses when calling it. Often times the result of a function call is saved in a variable for other use in your code. This error can be detected by logging variable values (or their types) to the console and seeing that one is set to a function reference, instead of the expected value the function returns.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call.js)
