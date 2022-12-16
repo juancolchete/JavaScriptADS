@@ -894,3 +894,8 @@ You can use `typeof` to check the data structure, or type, of a variable. This i
 The `console.log()` and `typeof` methods are the two primary ways to check intermediate values and types of program output. Now it's time to get into the common forms that bugs take. One syntax-level issue that fast typers can commiserate with is the humble spelling error.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-misspelled-variable-and-function-names)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-misspelled-variable-and-function-names.js)
+
+## Catch Unclosed Parentheses, Brackets, Braces and Quotes
+Another syntax error to be aware of is that all opening parentheses, brackets, curly braces, and quotes have a closing pair. Forgetting a piece tends to happen when you're editing existing code and inserting items with one of the pair types. Also, take care when nesting code blocks into others, such as adding a callback function as an argument to a method.     
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-unclosed-parentheses-brackets-braces-and-quotes.js)
