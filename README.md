@@ -909,3 +909,8 @@ Branching programs, i.e. ones that do different things if certain conditions are
 When a function or method doesn't take any arguments, you may forget to include the (empty) opening and closing parentheses when calling it. Often times the result of a function call is saved in a variable for other use in your code. This error can be detected by logging variable values (or their types) to the console and seeing that one is set to a function reference, instead of the expected value the function returns.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-missing-open-and-closing-parenthesis-after-a-function-call.js)
+
+## Catch Arguments Passed in the Wrong Order When Calling a Function
+Continuing the discussion on calling functions, the next bug to watch out for is when a function's arguments are supplied in the incorrect order. If the arguments are different types, such as a function expecting an array and an integer, this will likely throw a runtime error. If the arguments are the same type (all integers, for example), then the logic of the code won't make sense. Make sure to supply all required arguments, in the proper order to avoid these issues.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-arguments-passed-in-the-wrong-order-when-calling-a-function.js)
