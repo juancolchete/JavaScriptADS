@@ -925,3 +925,8 @@ Off by one errors (sometimes called OBOE) crop up when you're trying to target a
 Sometimes it's necessary to save information, increment counters, or re-set variables within a loop. A potential issue is when variables either should be reinitialized, and aren't, or vice versa. This is particularly dangerous if you accidentally reset the variable being used for the terminal condition, causing an infinite loop.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-caution-when-reinitializing-variables-inside-a-loop.js)
+
+## Prevent Infinite Loops with a Valid Terminal Condition
+The final topic is the dreaded infinite loop. Loops are great tools when you need your program to run a code block a certain number of times or until a condition is met, but they need a terminal condition that ends the looping. Infinite loops are likely to freeze or crash the browser, and cause general program execution mayhem, which no one wants.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/prevent-infinite-loops-with-a-valid-terminal-condition.js)
