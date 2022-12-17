@@ -920,3 +920,8 @@ Catch Off By One Errors When Using Indexing
 Off by one errors (sometimes called OBOE) crop up when you're trying to target a specific index of a string or array (to slice or access a segment), or when looping over the indices of them. JavaScript indexing starts at zero, not one, which means the last index is always one less than the length of the item. If you try to access an index equal to the length, the program may throw an "index out of range" reference error or print `undefined`. 
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/catch-off-by-one-errors-when-using-indexing)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/catch-off-by-one-errors-when-using-indexing.js)
+
+## Use Caution When Reinitializing Variables Inside a Loop
+Sometimes it's necessary to save information, increment counters, or re-set variables within a loop. A potential issue is when variables either should be reinitialized, and aren't, or vice versa. This is particularly dangerous if you accidentally reset the variable being used for the terminal condition, causing an infinite loop.  
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/use-caution-when-reinitializing-variables-inside-a-loop)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/use-caution-when-reinitializing-variables-inside-a-loop.js)
