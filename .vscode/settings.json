@@ -5,6 +5,7 @@
         "propname",
         "regexes",
         "typeof",
+        "typers",
         "unshift"
     ]
 }
