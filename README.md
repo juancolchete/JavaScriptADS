@@ -930,3 +930,8 @@ Sometimes it's necessary to save information, increment counters, or re-set vari
 The final topic is the dreaded infinite loop. Loops are great tools when you need your program to run a code block a certain number of times or until a condition is met, but they need a terminal condition that ends the looping. Infinite loops are likely to freeze or crash the browser, and cause general program execution mayhem, which no one wants.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/debugging/prevent-infinite-loops-with-a-valid-terminal-condition)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/debugging/prevent-infinite-loops-with-a-valid-terminal-condition.js)
+
+## Use an Array to Store a Collection of Data
+The below is an example of the simplest implementation of an array data structure. This is known as a one-dimensional array, meaning it only has one level, or that it does not have any other arrays nested within it.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)  
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-data-structures/use-an-array-to-store-a-collection-of-data.js)
