@@ -935,3 +935,8 @@ The final topic is the dreaded infinite loop. Loops are great tools when you nee
 The below is an example of the simplest implementation of an array data structure. This is known as a one-dimensional array, meaning it only has one level, or that it does not have any other arrays nested within it.   
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/use-an-array-to-store-a-collection-of-data)  
 [solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-data-structures/use-an-array-to-store-a-collection-of-data.js)
+
+## Use an Array to Store a Collection of Data
+The below is an example of the simplest implementation of an array data structure. This is known as a one-dimensional array, meaning it only has one level, or that it does not have any other arrays nested within it.   
+[statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-an-arrays-contents-using-bracket-notation)
+[solution](https://github.com/juanudk/JavaScriptADS/blob/main/basic-data-structures/access-an-arrays-contents-using-bracket-notation.js)
