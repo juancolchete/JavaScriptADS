@@ -1,3 +1,1 @@
-// Only change code below this line
-
-var remainder = 8 % 6 ;
+const remainder = 11 % 3;
