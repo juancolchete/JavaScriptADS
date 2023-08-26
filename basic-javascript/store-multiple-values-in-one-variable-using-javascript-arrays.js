@@ -1,2 +1,2 @@
 // Only change code below this line
-var myArray = ["Colchete",256];
+const myArray = ["lizard",42];
