@@ -1,4 +1,4 @@
-function functionWithArgs(a,b){
-    console.log(a + b)
-  }
-  functionWithArgs(1,2)
+function functionWithArgs(num1,num2){
+  console.log(num1+num2);
+}
+functionWithArgs(2,16);
