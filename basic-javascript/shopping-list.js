@@ -1,1 +1,1 @@
-var myList = [["meat",13],["colchete",14],["egg",2],["stone",1],["axe",10]];
+const myList = [["Rice",11],["Water",2],["Beans",5],["Salmon",8],["Watermelon",21]];
