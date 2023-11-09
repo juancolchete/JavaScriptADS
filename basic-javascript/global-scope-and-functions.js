@@ -1,15 +1,15 @@
 // Declare the myGlobal variable below this line
-var myGlobal = 10
 
+const myGlobal = 10
 function fun1() {
-  // Assign 5 to oopsGlobal Here
+  // Assign 5 to oopsGlobal here
   oopsGlobal = 5
 }
 
 // Only change code above this line
 
 function fun2() {
-  var output = "";
+  let output = "";
   if (typeof myGlobal != "undefined") {
     output += "myGlobal: " + myGlobal;
   }
