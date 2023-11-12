@@ -1,15 +1,12 @@
 function nextInLine(arr, item) {
   // Only change code below this line
-  arr.push(item);
-  item  = arr.shift();
-  return item;
+  arr.push(item)
+  return arr.shift();
   // Only change code above this line
-  
-
 }
 
 // Setup
-var testArr = [1,2,3,4,5];
+let testArr = [1, 2, 3, 4, 5];
 
 // Display code
 console.log("Before: " + JSON.stringify(testArr));
