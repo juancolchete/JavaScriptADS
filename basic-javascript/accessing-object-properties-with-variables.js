@@ -9,3 +9,4 @@ var testObj = {
   
   var playerNumber = 16;       // Change this line
   var player = testObj[playerNumber];   // Change this line
+
