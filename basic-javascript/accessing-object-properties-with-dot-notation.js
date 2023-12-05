@@ -1,11 +1,10 @@
 // Setup
-var testObj = {
-    "hat": "ballcap",
-    "shirt": "jersey",
-    "shoes": "cleats"
+const testObj = {
+  "hat": "ballcap",
+  "shirt": "jersey",
+  "shoes": "cleats"
 };
 
 // Only change code below this line
-
-var hatValue = testObj.hat;      // Change this line
-var shirtValue = testObj.shirt;    // Change this line
+const hatValue = testObj.hat;      // Change this line
+const shirtValue = testObj.shirt;    // Change this line
