@@ -7,7 +7,7 @@
 Comments are lines of code that JavaScript will intentionally ignore. Comments are a great way to leave notes to yourself and to other people who will later need to figure out what that code does.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)  
 [solution](https://github.com/juanudk/javascript-algorithms-and-data-structures/blob/main/basic-javascript/comment-your-javascript-code.js) 
-[video](https://www.youtube.com/watch?v=aRwAWuuENyY&list=PLbWtSW17vSe4ppzFhcxBJutuOQ-F8hJDh)
+[video](https://www.youtube.com/watch?v=aRwAWuuENyY&list=PLbWtSW17vSe4ppzFhcxBJutuOQ-F8hJDh)  
 ## Declare JavaScript Variables
 In computer science, data is anything that is meaningful to the computer. JavaScript provides eight different data types which are ```undefined```, ```null```, ```boolean```, ```string```, ```symbol```, ```bigint```, ```number```, and ```object```.  
 [statement](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)   
