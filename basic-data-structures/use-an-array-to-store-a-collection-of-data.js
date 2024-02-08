@@ -1,7 +1,7 @@
-let yourArray= [
-    1,
-     "juan",
-     true,
-     2,
-     "colchete"
-  ]; // Change this line
+let yourArray = [
+    true,
+    false,
+    "colchete",
+    "dao",
+    42
+]; // Change this line
