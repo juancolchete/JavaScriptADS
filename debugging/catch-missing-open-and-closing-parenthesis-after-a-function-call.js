@@ -6,3 +6,4 @@ function getNine() {
 
 let result = getNine();
 console.log(result);
+
