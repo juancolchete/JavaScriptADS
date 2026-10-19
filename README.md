@@ -1,5 +1,5 @@
 # JavaScript Algorithms and Data Structures
- This repo, aims to solve the freecodecamp course of JavaScript Algorithms and Data Structures Certification, legacy Free Code Camp. Pull request for newer.
+ This repo, aims to solve the freecodecamp course of JavaScript Algorithms and Data Structures Certification, legacy Free Code Camp. Pull request for newer free code camp resolutions.
 
 # Basic Javascript
 
